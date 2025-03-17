@@ -1,0 +1,2289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 715cf936dff7548adaed920300c02642, type: 3}
+  m_Name: MaleManifest
+  m_EditorClassIdentifier: 
+  config:
+    manifest:
+    - externalId: male_hair_m10002_00_82a5
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10002
+      name: hair_m10002
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10002a_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10002_01_3738
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10002
+      name: hair_m10002
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10002b_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10002b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_00_136f
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10003a_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10003a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_01_f2e3
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10003b_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10003b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_02_8980
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10003c_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10003c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_03_5cc7
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10003d_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10003d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_04_f6f1
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10003e_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10003e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_05_e81c
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10003f_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10003f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_06_6a54
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10003g_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10003g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_07_6fa6
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_08_0072
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003i_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003_09_5639
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10003
+      name: hair_m10003
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003j_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_00_f1af
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004a_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_01_c4c5
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004b_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_02_cc0a
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004c_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_03_95a5
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004d_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_04_a6a9
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004e_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_05_aaa5
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004f_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_06_f674
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004g_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_07_e674
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004h_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_08_4b1f
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004i_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004i_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004_09_aca7
+      gender: MALE
+      rarity: COMMON
+      description: hair_m10004
+      name: hair_m10004
+      categoryCode: HAIR
+      rootPath: /Hair/hair_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hair_m10004j_Thumbnail.png
+        paths:
+        - /Tex00/hair_m10004j_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_shirt_m10002_00_ff73
+      gender: MALE
+      rarity: COMMON
+      description: shirt_m10002
+      name: shirt_m10002
+      categoryCode: SHIRT
+      rootPath: /Shirt/shirt_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/shirt_10002a_m_Thumbnail.png
+        paths:
+        - /Tex00/shirt_10002a_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shirt_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_10002a_m_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_10002a_m_RME.png
+        clientGroups: []
+    - externalId: male_shirt_m10003_00_08fe
+      gender: MALE
+      rarity: COMMON
+      description: shirt_m10003
+      name: shirt_m10003
+      categoryCode: SHIRT
+      rootPath: /Shirt/shirt_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/shirt_m10003a_Thumbnail.png
+        paths:
+        - /Tex00/shirt_m10003a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shirt_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_m10003a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_m10003a_RME.png
+        clientGroups: []
+    - externalId: male_pants_m10002_00_59ba
+      gender: MALE
+      rarity: COMMON
+      description: pants_m10002
+      name: pants_m10002
+      categoryCode: PANTS
+      rootPath: /Pants/pants_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/pant_m10002a_Thumbnail.png
+        paths:
+        - /Tex00/pant_m10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /pant_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10002a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10002a_RME.png
+        clientGroups: []
+    - externalId: male_pants_m10003_00_d93f
+      gender: MALE
+      rarity: COMMON
+      description: pants_m10003
+      name: pants_m10003
+      categoryCode: PANTS
+      rootPath: /Pants/pants_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/pant_m10003a_Thumbnail.png
+        paths:
+        - /Tex00/pant_m10003a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /pant_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10003a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10003a_RME.png
+        clientGroups: []
+    - externalId: male_pants_m10004_00_6b38
+      gender: MALE
+      rarity: COMMON
+      description: pants_m10004
+      name: pants_m10004
+      categoryCode: PANTS
+      rootPath: /Pants/pants_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /pant_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004_RME.png
+        clientGroups: []
+    - externalId: male_pants_m10004_01_a806
+      gender: MALE
+      rarity: COMMON
+      description: pants_m10004
+      name: pants_m10004
+      categoryCode: PANTS
+      rootPath: /Pants/pants_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /pant_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004_RME.png
+        clientGroups: []
+    - externalId: male_pants_m10004_02_4b3b
+      gender: MALE
+      rarity: COMMON
+      description: pants_m10004
+      name: pants_m10004
+      categoryCode: PANTS
+      rootPath: /Pants/pants_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /pant_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004_RME.png
+        clientGroups: []
+    - externalId: male_pants_m10004_03_8c9e
+      gender: MALE
+      rarity: COMMON
+      description: pants_m10004
+      name: pants_m10004
+      categoryCode: PANTS
+      rootPath: /Pants/pants_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /pant_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_m10004_RME.png
+        clientGroups: []
+    - externalId: male_shoes_m10002_00_1d97
+      gender: MALE
+      rarity: COMMON
+      description: shoes_m10002
+      name: shoes_m10002
+      categoryCode: SHOES
+      rootPath: /Shoes/shoes_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/shoes_m10002a_Thumbnail.png
+        paths:
+        - /Tex00/shoes_m10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shoes_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_m10002a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_m10002a_RME.png
+        clientGroups: []
+    - externalId: male_shoes_m10003_00_943a
+      gender: MALE
+      rarity: COMMON
+      description: shoes_m10003
+      name: shoes_m10003
+      categoryCode: SHOES
+      rootPath: /Shoes/shoes_m10003
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/shoes_m10003a_Thumbnail.png
+        paths:
+        - /Tex00/shoes_m10003a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shoes_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_m10003a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_m10003a_RME.png
+        clientGroups: []
+    - externalId: male_shoes_m10004_00_4bf9
+      gender: MALE
+      rarity: COMMON
+      description: shoes_m10004
+      name: shoes_m10004
+      categoryCode: SHOES
+      rootPath: /Shoes/shoes_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex04/shose_m10004_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shoes_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex04/shose_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex04/shose_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10001_00_980c
+      gender: MALE
+      rarity: COMMON
+      description: hat_m10001
+      name: hat_m10001
+      categoryCode: HAT
+      rootPath: /Hat/hat_m10001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: /Tex00/hat_m10001a_Thumbnail.png
+        paths:
+        - /Tex00/hat_m10001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hat_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10001a_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10002_00_6d6e
+      gender: MALE
+      rarity: COMMON
+      description: hat_m10002
+      name: hat_m10002
+      categoryCode: HAT
+      rootPath: /Hat/hat_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hat_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10002_01_af67
+      gender: MALE
+      rarity: COMMON
+      description: hat_m10002
+      name: hat_m10002
+      categoryCode: HAT
+      rootPath: /Hat/hat_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hat_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10002_02_2178
+      gender: MALE
+      rarity: COMMON
+      description: hat_m10002
+      name: hat_m10002
+      categoryCode: HAT
+      rootPath: /Hat/hat_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hat_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10002_03_ab98
+      gender: MALE
+      rarity: COMMON
+      description: hat_m10002
+      name: hat_m10002
+      categoryCode: HAT
+      rootPath: /Hat/hat_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hat_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hat_m10002_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10001_00_a39a
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10001
+      name: accessories_m10001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10001_01_d93d
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10001
+      name: accessories_m10001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001b_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10001_02_d4f8
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10001
+      name: accessories_m10001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001c_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10001_03_c5b4
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10001
+      name: accessories_m10001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001d_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10002_00_138b
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10002
+      name: accessories_m10002
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10002_01_b6b5
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10002
+      name: accessories_m10002
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10002_02_9dae
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10002
+      name: accessories_m10002
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10002
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10002_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10004_00_4f28
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10004
+      name: accessories_m10004
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10004_01_c5c1
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10004
+      name: accessories_m10004
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10004_02_48d9
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10004
+      name: accessories_m10004
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10004_03_95fa
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10004
+      name: accessories_m10004
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10004
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10005_00_70be
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10005
+      name: accessories_m10005
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10005_01_04d0
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10005
+      name: accessories_m10005
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10005_02_f966
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10005
+      name: accessories_m10005
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10005_03_1824
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10005
+      name: accessories_m10005
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10005_04_6cb9
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10005
+      name: accessories_m10005
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10005_05_894b
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10005
+      name: accessories_m10005
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10005_06_1a9f
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10005
+      name: accessories_m10005
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10005_07_396c
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10005
+      name: accessories_m10005
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10006_00_eaf7
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10006
+      name: accessories_m10006
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10006_01_2a24
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10006
+      name: accessories_m10006
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10006_02_06ff
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10006
+      name: accessories_m10006
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10006_03_83b9
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10006
+      name: accessories_m10006
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10006_04_22d0
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10006
+      name: accessories_m10006
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10006_05_a03e
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10006
+      name: accessories_m10006
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10006_06_a62a
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10006
+      name: accessories_m10006
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m10006_07_d925
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m10006
+      name: accessories_m10006
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m20001_00_023b
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m20001
+      name: accessories_m20001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m20001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m20001_01_472a
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m20001
+      name: accessories_m20001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m20001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m20001_02_f4e3
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m20001
+      name: accessories_m20001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m20001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m20001_03_0b69
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m20001
+      name: accessories_m20001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m20001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m20001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m30001_00_6410
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m30001
+      name: accessories_m30001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m30001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m30001_01_64ce
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m30001
+      name: accessories_m30001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m30001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m30001_02_ae81
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m30001
+      name: accessories_m30001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m30001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001_RME.png
+        clientGroups: []
+    - externalId: male_accessories_m30001_03_62e8
+      gender: MALE
+      rarity: COMMON
+      description: accessories_m30001
+      name: accessories_m30001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_m30001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_m30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/accessory_m30001_RME.png
+        clientGroups: []
+    - externalId: male_beard_01_00_ee4d
+      gender: MALE
+      rarity: COMMON
+      description: beard_01
+      name: beard_01
+      categoryCode: BEARD
+      rootPath: /Beard/beard_01
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_01_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /beard_01.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_01_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_01_RME.png
+        clientGroups: []
+    - externalId: male_beard_02_00_db87
+      gender: MALE
+      rarity: COMMON
+      description: beard_02
+      name: beard_02
+      categoryCode: BEARD
+      rootPath: /Beard/beard_02
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_02_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /beard_02.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_02_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_02_RME.png
+        clientGroups: []
+    - externalId: male_beard_03_00_1214
+      gender: MALE
+      rarity: COMMON
+      description: beard_03
+      name: beard_03
+      categoryCode: BEARD
+      rootPath: /Beard/beard_03
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_03_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /beard_03.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_03_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_03_RME.png
+        clientGroups: []
+    - externalId: male_beard_06_00_2632
+      gender: MALE
+      rarity: COMMON
+      description: beard_06
+      name: beard_06
+      categoryCode: BEARD
+      rootPath: /Beard/beard_06
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_06_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /beard_06.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_06_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/beard_06_RME.png
+        clientGroups: []
+    - externalId: male_set_m20001_00_a4d3
+      gender: MALE
+      rarity: COMMON
+      description: set_m20001
+      name: set_m20001
+      categoryCode: SET
+      rootPath: /Set/set_m20001
+      animation: 1
+      configs:
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/set_m20001_02_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /set_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/set_m20001_02_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/set_m20001_02_RME.png
+        clientGroups: []
+  femaleResourceRootPath: 
+  maleResourceRootPath: ArtistWork/Resources/Male
+  outputFolder: 
+  outputZipName: 
+  textureFolderName: Tex
+  mask01FolderName: Mask01
+  mask02FolderName: Mask02
+  sampleDataForTesting:
+    Total: 0
+    Data: []
+  remoteResourceUrl: 

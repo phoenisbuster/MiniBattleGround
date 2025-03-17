@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1990072182696563830
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1188698040923643002}
+  - component: {fileID: 2751165357179679256}
+  m_Layer: 0
+  m_Name: AvatarMaker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1188698040923643002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990072182696563830}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 99673153147329129}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2751165357179679256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990072182696563830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7542f0f35253f4cb0b20ed1cdfe2c336, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _Description: This option is ticked avatar will be loaded automatically when script
+    is awoke. Best use for loading none network avatar
+  BuildAvatarFromStart: 1
+  parentGameObject: {fileID: 2521214718852577784}
+  muziCharacterType: 0
+  noneNetworkBaseType: 6
+  NPCDesc: The NPC settings only apply when character type is none network character
+  isNPC: 0
+  forceDance: 0
+  __Description: Client needs to prepare appropriate avatar config so that each avatar
+    items (shoe, pant, hair, hat...) would be loaded onto correct base object which
+    includes correct animation avatar and root bone!
+  supportedAvatarConfigs:
+  - BaseAvatar: 6
+    BaseAvatarPrefab: {fileID: 6387053932825762806, guid: 799cce204e28e4b8cacbd8844e3e256b,
+      type: 3}
+    FullCharacterPrefab: 1
+    RootBone: {fileID: 0}
+    AvatarGameObjectRef: {fileID: 0}
+    backHeadMesh: {fileID: 0}
+    AnimController: {fileID: 9100000, guid: 26549074a436747d3aaa671b16f3cfbe, type: 2}
+    AllLocalItemsData: {fileID: 0}
+    Danceable: 0
+    IsMannequine: 0
+    MannequinPoseAnimController: {fileID: 0}
+    BaseMaterial: {fileID: 0}
+    FaceMaterial: {fileID: 0}
+    EyebrowMaterial: {fileID: 0}
+    BodyMaterial: {fileID: 0}
+    BackHeadMaterial: {fileID: 0}
+  equipmentRuleDesc: 'Foreach category, avatar has a combination of 3 equipment possibilities:
+    equip 0, 1, > 1 items. These rules are defined in here'
+  equipRuleData: {fileID: 0}
+  specialHairs: {fileID: 0}
+  prevCharacterPos: {x: 0, y: 0, z: 0}
+  prevCharacterRot: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &2521214718852577784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 99673153147329129}
+  - component: {fileID: 1834504028908011862}
+  m_Layer: 0
+  m_Name: MuziMale
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &99673153147329129
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2521214718852577784}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1188698040923643002}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1834504028908011862
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2521214718852577784}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 4f8c1739dbab04b67a9ba64b4a4018c2, type: 3}
+  m_Controller: {fileID: 9100000, guid: 26549074a436747d3aaa671b16f3cfbe, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

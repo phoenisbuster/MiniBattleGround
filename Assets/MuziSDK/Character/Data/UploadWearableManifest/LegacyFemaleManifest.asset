@@ -1,0 +1,2605 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 715cf936dff7548adaed920300c02642, type: 3}
+  m_Name: LegacyFemaleManifest
+  m_EditorClassIdentifier: 
+  config:
+    manifest:
+    - externalId: female_hair_f10001a_33bd2ac322cb
+      gender: FEMALE
+      rarity: COMMON
+      description: hair_f10001a
+      name: hair_f10001a
+      categoryCode: HAIR
+      rootPath: /Hair/hair_f10001a
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_f10001a.fbx
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_f10001_RME.png
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/lambert7_BaseColor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/lambert7_Normal.png
+        clientGroups: []
+    - externalId: female_hair_f10003a_21ab1b1d2bb2
+      gender: FEMALE
+      rarity: COMMON
+      description: hair_f10003a
+      name: hair_f10003a
+      categoryCode: HAIR
+      rootPath: /Hair/hair_f10003a
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /hair_f10003a.fbx
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/female_hair_opt2_BaseColor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/female_hair_opt2_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/hair_f10003a_RME.png
+        clientGroups: []
+    - externalId: female_earring_00_890b389c9866
+      gender: FEMALE
+      rarity: COMMON
+      description: 00
+      name: 00
+      categoryCode: EARRING
+      rootPath: /Earring/00
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /female_earring.fbx
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/earring_F10001a_BaseColor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/earring_F10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/earring_F10001a_RME.png
+        clientGroups: []
+    - externalId: female_eyes_00_612ab8e138e0
+      gender: FEMALE
+      rarity: COMMON
+      description: 00
+      name: 00
+      categoryCode: EYES
+      rootPath: /Eyes/00
+      animation: 0
+      configs:
+      - type: MASK_IMG
+        thumbnail: 
+        paths:
+        - /Mask01/female_face_eyesbrown_01_BaseColor.png
+        - /Mask01/female_face_eyesbrown_01_Mask.png
+        - /Mask01/female_face_eyesbrown_02_BaseColor.png
+        - /Mask01/female_face_eyesbrown_02_Mask.png
+        - /Mask01/female_face_eyesbrown_03_BaseColor.png
+        - /Mask01/female_face_eyesbrown_03_Mask.png
+        clientGroups:
+        - mask01
+      - type: MASK_IMG
+        thumbnail: 
+        paths:
+        - /Mask02/female_face_eyes_01_BaseColor.png
+        - /Mask02/female_face_eyes_01_Mask.png
+        - /Mask02/female_face_eyes_02_BaseColor.png
+        - /Mask02/female_face_eyes_02_Mask.png
+        - /Mask02/female_face_eyes_03_BaseColor.png
+        - /Mask02/female_face_eyes_03_Mask.png
+        clientGroups:
+        - mask02
+    - externalId: female_eyes_01_27622fb69a78
+      gender: FEMALE
+      rarity: COMMON
+      description: 01
+      name: 01
+      categoryCode: EYES
+      rootPath: /Eyes/01
+      animation: 0
+      configs: []
+    - externalId: female_eyes_02_c301a5ae72e5
+      gender: FEMALE
+      rarity: COMMON
+      description: 02
+      name: 02
+      categoryCode: EYES
+      rootPath: /Eyes/02
+      animation: 0
+      configs: []
+    - externalId: female_eyes_03_f66cc9a4823b
+      gender: FEMALE
+      rarity: COMMON
+      description: 03
+      name: 03
+      categoryCode: EYES
+      rootPath: /Eyes/03
+      animation: 0
+      configs: []
+    - externalId: female_eyes_04_68782f1d6651
+      gender: FEMALE
+      rarity: COMMON
+      description: 04
+      name: 04
+      categoryCode: EYES
+      rootPath: /Eyes/04
+      animation: 0
+      configs: []
+    - externalId: female_eyes_05_5d09e17879f8
+      gender: FEMALE
+      rarity: COMMON
+      description: 05
+      name: 05
+      categoryCode: EYES
+      rootPath: /Eyes/05
+      animation: 0
+      configs: []
+    - externalId: female_nose_00_ecc6692d40c7
+      gender: FEMALE
+      rarity: COMMON
+      description: 00
+      name: 00
+      categoryCode: NOSE
+      rootPath: /Nose/00
+      animation: 0
+      configs: []
+    - externalId: female_nose_01_b440a852812c
+      gender: FEMALE
+      rarity: COMMON
+      description: 01
+      name: 01
+      categoryCode: NOSE
+      rootPath: /Nose/01
+      animation: 0
+      configs: []
+    - externalId: female_nose_02_3b887aa1da5b
+      gender: FEMALE
+      rarity: COMMON
+      description: 02
+      name: 02
+      categoryCode: NOSE
+      rootPath: /Nose/02
+      animation: 0
+      configs: []
+    - externalId: female_nose_03_33753bcb8a10
+      gender: FEMALE
+      rarity: COMMON
+      description: 03
+      name: 03
+      categoryCode: NOSE
+      rootPath: /Nose/03
+      animation: 0
+      configs: []
+    - externalId: female_nose_04_0c8bd6784883
+      gender: FEMALE
+      rarity: COMMON
+      description: 04
+      name: 04
+      categoryCode: NOSE
+      rootPath: /Nose/04
+      animation: 0
+      configs: []
+    - externalId: female_nose_05_8e2264aaf9cb
+      gender: FEMALE
+      rarity: COMMON
+      description: 05
+      name: 05
+      categoryCode: NOSE
+      rootPath: /Nose/05
+      animation: 0
+      configs: []
+    - externalId: female_mouth_00_7ad6e53041b3
+      gender: FEMALE
+      rarity: COMMON
+      description: 00
+      name: 00
+      categoryCode: MOUTH
+      rootPath: /Mouth/00
+      animation: 0
+      configs: []
+    - externalId: female_mouth_01_0c678ef3fc53
+      gender: FEMALE
+      rarity: COMMON
+      description: 01
+      name: 01
+      categoryCode: MOUTH
+      rootPath: /Mouth/01
+      animation: 0
+      configs: []
+    - externalId: female_mouth_02_4d5bb4bf27e2
+      gender: FEMALE
+      rarity: COMMON
+      description: 02
+      name: 02
+      categoryCode: MOUTH
+      rootPath: /Mouth/02
+      animation: 0
+      configs: []
+    - externalId: female_mouth_03_edd6660887e9
+      gender: FEMALE
+      rarity: COMMON
+      description: 03
+      name: 03
+      categoryCode: MOUTH
+      rootPath: /Mouth/03
+      animation: 0
+      configs: []
+    - externalId: female_mouth_04_bd3b8e3f5d35
+      gender: FEMALE
+      rarity: COMMON
+      description: 04
+      name: 04
+      categoryCode: MOUTH
+      rootPath: /Mouth/04
+      animation: 0
+      configs: []
+    - externalId: female_mouth_05_78037ae8288b
+      gender: FEMALE
+      rarity: COMMON
+      description: 05
+      name: 05
+      categoryCode: MOUTH
+      rootPath: /Mouth/05
+      animation: 0
+      configs: []
+    - externalId: female_cheek_00_ce6073d69c9e
+      gender: FEMALE
+      rarity: COMMON
+      description: 00
+      name: 00
+      categoryCode: CHEEK
+      rootPath: /Cheek/00
+      animation: 0
+      configs: []
+    - externalId: female_cheek_01_a6deff9f3153
+      gender: FEMALE
+      rarity: COMMON
+      description: 01
+      name: 01
+      categoryCode: CHEEK
+      rootPath: /Cheek/01
+      animation: 0
+      configs: []
+    - externalId: female_cheek_02_11ff33413509
+      gender: FEMALE
+      rarity: COMMON
+      description: 02
+      name: 02
+      categoryCode: CHEEK
+      rootPath: /Cheek/02
+      animation: 0
+      configs: []
+    - externalId: female_cheek_03_5a0d729b77fc
+      gender: FEMALE
+      rarity: COMMON
+      description: 03
+      name: 03
+      categoryCode: CHEEK
+      rootPath: /Cheek/03
+      animation: 0
+      configs: []
+    - externalId: female_cheek_04_3d28091cd628
+      gender: FEMALE
+      rarity: COMMON
+      description: 04
+      name: 04
+      categoryCode: CHEEK
+      rootPath: /Cheek/04
+      animation: 0
+      configs: []
+    - externalId: female_cheek_05_ac5cb611b19e
+      gender: FEMALE
+      rarity: COMMON
+      description: 05
+      name: 05
+      categoryCode: CHEEK
+      rootPath: /Cheek/05
+      animation: 0
+      configs: []
+    - externalId: female_shirt_f10001a_83c1df0bd916
+      gender: FEMALE
+      rarity: COMMON
+      description: shirt_f10001a
+      name: shirt_f10001a
+      categoryCode: SHIRT
+      rootPath: /Shirt/shirt_f10001a
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shirt_f10001a.fbx
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_f10001a_01_RME.png
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_f10001a_BaseColor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_f10001a_Normal.png
+        clientGroups: []
+    - externalId: female_shirt_f30002a_a4b3730d0a91
+      gender: FEMALE
+      rarity: COMMON
+      description: shirt_f30002a
+      name: shirt_f30002a
+      categoryCode: SHIRT
+      rootPath: /Shirt/shirt_f30002a
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shirt_f30002a.fbx
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_f30001a_RME.png
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_f30002a_Basecolor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shirt_f30002a_Normal.png
+        clientGroups: []
+    - externalId: female_pants_f10001a_d277a59fc8b8
+      gender: FEMALE
+      rarity: COMMON
+      description: pants_f10001a
+      name: pants_f10001a
+      categoryCode: PANTS
+      rootPath: /Pants/pants_f10001a
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /pant_f10001a.fbx
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_f10001a_BaseColor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_f10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_f10001a_RME.png
+        clientGroups: []
+    - externalId: female_pants_f30002a_9a38d312c7bd
+      gender: FEMALE
+      rarity: COMMON
+      description: pants_f30002a
+      name: pants_f30002a
+      categoryCode: PANTS
+      rootPath: /Pants/pants_f30002a
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /pant_f30002a.fbx
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_f30001a_RME.png
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_f30002a_Basecolor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/pant_f30002a_Normal.png
+        clientGroups: []
+    - externalId: female_shoes_f10001a_3caa0165095c
+      gender: FEMALE
+      rarity: COMMON
+      description: shoes_f10001a
+      name: shoes_f10001a
+      categoryCode: SHOES
+      rootPath: /Shoes/shoes_f10001a
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shoes_f10001a.fbx
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_f10001a_BaseColor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_f10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_f10001a_RME.png
+        clientGroups: []
+    - externalId: female_shoes_f30002a_d52766099dc8
+      gender: FEMALE
+      rarity: COMMON
+      description: shoes_f30002a
+      name: shoes_f30002a
+      categoryCode: SHOES
+      rootPath: /Shoes/shoes_f30002a
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /shoes_f30002a.fbx
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_f30001a_RME.png
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_f30002a_BaseColor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex00/shoes_f30002a_Normal.png
+        clientGroups: []
+    - externalId: female_accessories_f10001_95b8aec0b0bf
+      gender: FEMALE
+      rarity: COMMON
+      description: accessories_f10001
+      name: accessories_f10001
+      categoryCode: ACCESSORIES
+      rootPath: /Accessories/accessories_f10001
+      animation: 0
+      configs:
+      - type: FBX
+        thumbnail: 
+        paths:
+        - /accessory_f10001.fbx
+        clientGroups: []
+      - type: BASE_IMG
+        thumbnail: 
+        paths:
+        - /Tex01/accessory_f10001a_Basecolor.png
+        clientGroups: []
+      - type: NORMAL_IMG
+        thumbnail: 
+        paths:
+        - /Tex01/accessory_f10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        thumbnail: 
+        paths:
+        - /Tex01/accessory_f10001a_RME.png
+        clientGroups: []
+  femaleResourceRootPath: ArtistWork/Resources/Female01
+  maleResourceRootPath: 
+  outputFolder: 
+  outputZipName: 
+  textureFolderName: Tex
+  mask01FolderName: Mask01
+  mask02FolderName: Mask02
+  sampleDataForTesting:
+    Total: 55
+    Data:
+    - Id: hair_f10001
+      Description: Hair hair_f10001 for Female
+      Name: Hair hair_f10001 for Female
+      Gender: 0
+      CategoryCode: HAIR
+      CategoryName: hair
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hair_f10001#FBX#/hair_f10001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMS9oYWlyX2YxMDAwMS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_f10001#BASE_IMG#/Tex00/hair_f10001_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMS9UZXgwMC9oYWlyX2YxMDAwMV9CYXNlQ29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hair_f10001#NORMAL_IMG#/Tex00/hair_f10001_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMS9UZXgwMC9oYWlyX2YxMDAwMV9Ob3JtYWwucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hair_f10001#RME_IMG#/Tex00/hair_f10001_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMS9UZXgwMC9oYWlyX2YxMDAwMV9STUUucG5n
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: hair_f10001a
+      Description: Hair hair_f10001a for Female
+      Name: Hair hair_f10001a for Female
+      Gender: 0
+      CategoryCode: HAIR
+      CategoryName: hair
+      Rarity: 0
+      Animation: 1
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hair_f10001a#FBX#/hair_f10001a.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMWEvaGFpcl9mMTAwMDFhLmZieA==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hair_f10001a#RME_IMG#/Tex00/hair_f10001_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMWEvVGV4MDAvaGFpcl9mMTAwMDFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_f10001a#BASE_IMG#/Tex00/lambert7_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMWEvVGV4MDAvbGFtYmVydDdfQmFzZUNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hair_f10001a#NORMAL_IMG#/Tex00/lambert7_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMWEvVGV4MDAvbGFtYmVydDdfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: hair_f10002
+      Description: Hair hair_f10002 for Female
+      Name: Hair hair_f10002 for Female
+      Gender: 0
+      CategoryCode: HAIR
+      CategoryName: hair
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hair_f10002#FBX#/hair_f10002.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMi9oYWlyX2YxMDAwMi5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_f10002#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMg==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_f10002#BASE_IMG#/Tex00/hair_f10002a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMi9UZXgwMC9oYWlyX2YxMDAwMmFfQmFzZUNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hair_f10002#NORMAL_IMG#/Tex00/hair_f10002a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMi9UZXgwMC9oYWlyX2YxMDAwMmFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hair_f10002#RME_IMG#/Tex00/hair_f10002a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMi9UZXgwMC9oYWlyX2YxMDAwMmFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: hair_f10003
+      Description: Hair hair_f10003 for Female
+      Name: Hair hair_f10003 for Female
+      Gender: 0
+      CategoryCode: HAIR
+      CategoryName: hair
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hair_f10003#FBX#/hair_f10003.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMy9oYWlyX2YxMDAwMy5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_f10003#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_f10003#BASE_IMG#/Tex00/hair_f10003a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMy9UZXgwMC9oYWlyX2YxMDAwM2FfQmFzZUNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hair_f10003#NORMAL_IMG#/Tex00/hair_f10003a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMy9UZXgwMC9oYWlyX2YxMDAwM2FfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hair_f10003#RME_IMG#/Tex00/hair_f10003a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwMy9UZXgwMC9oYWlyX2YxMDAwM2FfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: hair_f10003a
+      Description: Hair hair_f10003a for Female
+      Name: Hair hair_f10003a for Female
+      Gender: 0
+      CategoryCode: HAIR
+      CategoryName: hair
+      Rarity: 0
+      Animation: 1
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hair_f10003a#FBX#/hair_f10003a.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwM2EvaGFpcl9mMTAwMDNhLmZieA==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_f10003a#BASE_IMG#/Tex00/female_hair_opt2_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwM2EvVGV4MDAvZmVtYWxlX2hhaXJfb3B0Ml9CYXNlQ29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hair_f10003a#NORMAL_IMG#/Tex00/female_hair_opt2_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwM2EvVGV4MDAvZmVtYWxlX2hhaXJfb3B0Ml9Ob3JtYWwucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hair_f10003a#RME_IMG#/Tex00/hair_f10003a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwM2EvVGV4MDAvaGFpcl9mMTAwMDNhX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: hair_f10004
+      Description: Hair hair_f10004 for Female
+      Name: Hair hair_f10004 for Female
+      Gender: 0
+      CategoryCode: HAIR
+      CategoryName: hair
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hair_f10004#FBX#/hair_f10004.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwNC9oYWlyX2YxMDAwNC5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_f10004#BASE_IMG#/Tex00/hair_f10004_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwNC9UZXgwMC9oYWlyX2YxMDAwNF9CYXNlQ29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hair_f10004#NORMAL_IMG#/Tex00/hair_f10004_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwNC9UZXgwMC9oYWlyX2YxMDAwNF9Ob3JtYWwucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hair_f10004#RME_IMG#/Tex00/hair_f10004_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX2YxMDAwNC9UZXgwMC9oYWlyX2YxMDAwNF9STUUucG5n
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: hair_m10002
+      Description: Hair hair_m10002 for Female
+      Name: Hair hair_m10002 for Female
+      Gender: 0
+      CategoryCode: HAIR
+      CategoryName: hair
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hair_m10002#FBX#/hair_m10002.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX20xMDAwMi9oYWlyX20xMDAwMi5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hair_m10002#RME_IMG#/Tex00/hair_m10001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX20xMDAwMi9UZXgwMC9oYWlyX20xMDAwMWFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hair_m10002#NORMAL_IMG#/Tex00/hair_m10002_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX20xMDAwMi9UZXgwMC9oYWlyX20xMDAwMl9Ob3JtYWwucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_m10002#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX20xMDAwMg==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hair_m10002#BASE_IMG#/Tex00/hair_m10002a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGFpci9oYWlyX20xMDAwMi9UZXgwMC9oYWlyX20xMDAwMmFfQmFzZUNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: earring_00
+      Description: Earring 00 for Female
+      Name: Earring 00 for Female
+      Gender: 0
+      CategoryCode: EARRING
+      CategoryName: earring
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: earring_00#FBX#/female_earring.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRWFycmluZy8wMC9mZW1hbGVfZWFycmluZy5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: earring_00#BASE_IMG#/Tex00/earring_F10001a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRWFycmluZy8wMC9UZXgwMC9lYXJyaW5nX0YxMDAwMWFfQmFzZUNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: earring_00#NORMAL_IMG#/Tex00/earring_F10001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRWFycmluZy8wMC9UZXgwMC9lYXJyaW5nX0YxMDAwMWFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: earring_00#RME_IMG#/Tex00/earring_F10001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRWFycmluZy8wMC9UZXgwMC9lYXJyaW5nX0YxMDAwMWFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: eyes_00
+      Description: Eyes 00 for Female
+      Name: Eyes 00 for Female
+      Gender: 0
+      CategoryCode: EYES
+      CategoryName: eyes
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask01
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask01/female_face_eyesbrown_01_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDEvZmVtYWxlX2ZhY2VfZXllc2Jyb3duXzAxX0Jhc2VDb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask01
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask01/female_face_eyesbrown_01_Mask.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDEvZmVtYWxlX2ZhY2VfZXllc2Jyb3duXzAxX01hc2sucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask01
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask01/female_face_eyesbrown_02_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDEvZmVtYWxlX2ZhY2VfZXllc2Jyb3duXzAyX0Jhc2VDb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask01
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask01/female_face_eyesbrown_02_Mask.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDEvZmVtYWxlX2ZhY2VfZXllc2Jyb3duXzAyX01hc2sucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask01
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask01/female_face_eyesbrown_03_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDEvZmVtYWxlX2ZhY2VfZXllc2Jyb3duXzAzX0Jhc2VDb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask01
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask01/female_face_eyesbrown_03_Mask.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDEvZmVtYWxlX2ZhY2VfZXllc2Jyb3duXzAzX01hc2sucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask02
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask02/female_face_eyes_01_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDIvZmVtYWxlX2ZhY2VfZXllc18wMV9CYXNlQ29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask02
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask02/female_face_eyes_01_Mask.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDIvZmVtYWxlX2ZhY2VfZXllc18wMV9NYXNrLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask02
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask02/female_face_eyes_02_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDIvZmVtYWxlX2ZhY2VfZXllc18wMl9CYXNlQ29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask02
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask02/female_face_eyes_02_Mask.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDIvZmVtYWxlX2ZhY2VfZXllc18wMl9NYXNrLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask02
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask02/female_face_eyes_03_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDIvZmVtYWxlX2ZhY2VfZXllc18wM19CYXNlQ29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: mask02
+        ResourceType: 5
+        ResourceId: eyes_00#MASK_IMG#/Mask02/female_face_eyes_03_Mask.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvRXllcy8wMC9NYXNrMDIvZmVtYWxlX2ZhY2VfZXllc18wM19NYXNrLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: eyes_01
+      Description: Eyes 01 for Female
+      Name: Eyes 01 for Female
+      Gender: 0
+      CategoryCode: EYES
+      CategoryName: eyes
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: eyes_02
+      Description: Eyes 02 for Female
+      Name: Eyes 02 for Female
+      Gender: 0
+      CategoryCode: EYES
+      CategoryName: eyes
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: eyes_03
+      Description: Eyes 03 for Female
+      Name: Eyes 03 for Female
+      Gender: 0
+      CategoryCode: EYES
+      CategoryName: eyes
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: eyes_04
+      Description: Eyes 04 for Female
+      Name: Eyes 04 for Female
+      Gender: 0
+      CategoryCode: EYES
+      CategoryName: eyes
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: eyes_05
+      Description: Eyes 05 for Female
+      Name: Eyes 05 for Female
+      Gender: 0
+      CategoryCode: EYES
+      CategoryName: eyes
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: nose_00
+      Description: Nose 00 for Female
+      Name: Nose 00 for Female
+      Gender: 0
+      CategoryCode: NOSE
+      CategoryName: nose
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: nose_01
+      Description: Nose 01 for Female
+      Name: Nose 01 for Female
+      Gender: 0
+      CategoryCode: NOSE
+      CategoryName: nose
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: nose_02
+      Description: Nose 02 for Female
+      Name: Nose 02 for Female
+      Gender: 0
+      CategoryCode: NOSE
+      CategoryName: nose
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: nose_03
+      Description: Nose 03 for Female
+      Name: Nose 03 for Female
+      Gender: 0
+      CategoryCode: NOSE
+      CategoryName: nose
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: nose_04
+      Description: Nose 04 for Female
+      Name: Nose 04 for Female
+      Gender: 0
+      CategoryCode: NOSE
+      CategoryName: nose
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: nose_05
+      Description: Nose 05 for Female
+      Name: Nose 05 for Female
+      Gender: 0
+      CategoryCode: NOSE
+      CategoryName: nose
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: mouth_00
+      Description: Mouth 00 for Female
+      Name: Mouth 00 for Female
+      Gender: 0
+      CategoryCode: MOUTH
+      CategoryName: mouth
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: mouth_01
+      Description: Mouth 01 for Female
+      Name: Mouth 01 for Female
+      Gender: 0
+      CategoryCode: MOUTH
+      CategoryName: mouth
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: mouth_02
+      Description: Mouth 02 for Female
+      Name: Mouth 02 for Female
+      Gender: 0
+      CategoryCode: MOUTH
+      CategoryName: mouth
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: mouth_03
+      Description: Mouth 03 for Female
+      Name: Mouth 03 for Female
+      Gender: 0
+      CategoryCode: MOUTH
+      CategoryName: mouth
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: mouth_04
+      Description: Mouth 04 for Female
+      Name: Mouth 04 for Female
+      Gender: 0
+      CategoryCode: MOUTH
+      CategoryName: mouth
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: mouth_05
+      Description: Mouth 05 for Female
+      Name: Mouth 05 for Female
+      Gender: 0
+      CategoryCode: MOUTH
+      CategoryName: mouth
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: cheek_00
+      Description: Cheek 00 for Female
+      Name: Cheek 00 for Female
+      Gender: 0
+      CategoryCode: CHEEK
+      CategoryName: cheek
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: cheek_01
+      Description: Cheek 01 for Female
+      Name: Cheek 01 for Female
+      Gender: 0
+      CategoryCode: CHEEK
+      CategoryName: cheek
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: cheek_02
+      Description: Cheek 02 for Female
+      Name: Cheek 02 for Female
+      Gender: 0
+      CategoryCode: CHEEK
+      CategoryName: cheek
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: cheek_03
+      Description: Cheek 03 for Female
+      Name: Cheek 03 for Female
+      Gender: 0
+      CategoryCode: CHEEK
+      CategoryName: cheek
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: cheek_04
+      Description: Cheek 04 for Female
+      Name: Cheek 04 for Female
+      Gender: 0
+      CategoryCode: CHEEK
+      CategoryName: cheek
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: cheek_05
+      Description: Cheek 05 for Female
+      Name: Cheek 05 for Female
+      Gender: 0
+      CategoryCode: CHEEK
+      CategoryName: cheek
+      Rarity: 0
+      Animation: 0
+      Resources: []
+      Owned: 0
+    - Id: shirt_f10001
+      Description: Shirt shirt_f10001 for Female
+      Name: Shirt shirt_f10001 for Female
+      Gender: 0
+      CategoryCode: SHIRT
+      CategoryName: shirt
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shirt_f10001#FBX#/shirt_f10001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAxL3NoaXJ0X2YxMDAwMS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_f10001#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAx
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_f10001#BASE_IMG#/Tex00/shirt_f10001a_01_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAxL1RleDAwL3NoaXJ0X2YxMDAwMWFfMDFfQmFzZWNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shirt_f10001#NORMAL_IMG#/Tex00/shirt_f10001a_01_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAxL1RleDAwL3NoaXJ0X2YxMDAwMWFfMDFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shirt_f10001#RME_IMG#/Tex00/shirt_f10001a_01_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAxL1RleDAwL3NoaXJ0X2YxMDAwMWFfMDFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shirt_f10001a
+      Description: Shirt shirt_f10001a for Female
+      Name: Shirt shirt_f10001a for Female
+      Gender: 0
+      CategoryCode: SHIRT
+      CategoryName: shirt
+      Rarity: 0
+      Animation: 1
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shirt_f10001a#FBX#/shirt_f10001a.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAxYS9zaGlydF9mMTAwMDFhLmZieA==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shirt_f10001a#RME_IMG#/Tex00/shirt_f10001a_01_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAxYS9UZXgwMC9zaGlydF9mMTAwMDFhXzAxX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_f10001a#BASE_IMG#/Tex00/shirt_f10001a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAxYS9UZXgwMC9zaGlydF9mMTAwMDFhX0Jhc2VDb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shirt_f10001a#NORMAL_IMG#/Tex00/shirt_f10001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAxYS9UZXgwMC9zaGlydF9mMTAwMDFhX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shirt_f10002
+      Description: Shirt shirt_f10002 for Female
+      Name: Shirt shirt_f10002 for Female
+      Gender: 0
+      CategoryCode: SHIRT
+      CategoryName: shirt
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shirt_f10002#FBX#/shirt_f10002.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAyL3NoaXJ0X2YxMDAwMi5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_f10002#BASE_IMG#/Tex00/shirt_f10002_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAyL1RleDAwL3NoaXJ0X2YxMDAwMl9CYXNlY29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shirt_f10002#NORMAL_IMG#/Tex00/shirt_f10002_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAyL1RleDAwL3NoaXJ0X2YxMDAwMl9Ob3JtYWwucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shirt_f10002#RME_IMG#/Tex00/shirt_f10002_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjEwMDAyL1RleDAwL3NoaXJ0X2YxMDAwMl9STUUucG5n
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shirt_f30001
+      Description: Shirt shirt_f30001 for Female
+      Name: Shirt shirt_f30001 for Female
+      Gender: 0
+      CategoryCode: SHIRT
+      CategoryName: shirt
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shirt_f30001#FBX#/shirt_f30001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAxL3NoaXJ0X2YzMDAwMS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_f30001#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAx
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_f30001#BASE_IMG#/Tex00/shirt_f30001a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAxL1RleDAwL3NoaXJ0X2YzMDAwMWFfQmFzZWNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shirt_f30001#NORMAL_IMG#/Tex00/shirt_f30001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAxL1RleDAwL3NoaXJ0X2YzMDAwMWFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shirt_f30001#RME_IMG#/Tex00/shirt_f30001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAxL1RleDAwL3NoaXJ0X2YzMDAwMWFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shirt_f30002a
+      Description: Shirt shirt_f30002a for Female
+      Name: Shirt shirt_f30002a for Female
+      Gender: 0
+      CategoryCode: SHIRT
+      CategoryName: shirt
+      Rarity: 0
+      Animation: 1
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shirt_f30002a#FBX#/shirt_f30002a.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAyYS9zaGlydF9mMzAwMDJhLmZieA==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shirt_f30002a#RME_IMG#/Tex00/shirt_f30001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAyYS9UZXgwMC9zaGlydF9mMzAwMDFhX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_f30002a#BASE_IMG#/Tex00/shirt_f30002a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAyYS9UZXgwMC9zaGlydF9mMzAwMDJhX0Jhc2Vjb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shirt_f30002a#NORMAL_IMG#/Tex00/shirt_f30002a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfZjMwMDAyYS9UZXgwMC9zaGlydF9mMzAwMDJhX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shirt_m10002
+      Description: Shirt shirt_m10002 for Female
+      Name: Shirt shirt_m10002 for Female
+      Gender: 0
+      CategoryCode: SHIRT
+      CategoryName: shirt
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shirt_m10002#FBX#/shirt_m10002.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfbTEwMDAyL3NoaXJ0X20xMDAwMi5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_m10002#BASE_IMG#/Tex00/shirt_10002a_m_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfbTEwMDAyL1RleDAwL3NoaXJ0XzEwMDAyYV9tX0Jhc2Vjb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shirt_m10002#NORMAL_IMG#/Tex00/shirt_10002a_m_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfbTEwMDAyL1RleDAwL3NoaXJ0XzEwMDAyYV9tX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shirt_m10002#RME_IMG#/Tex00/shirt_10002a_m_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfbTEwMDAyL1RleDAwL3NoaXJ0XzEwMDAyYV9tX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shirt_m10003
+      Description: Shirt shirt_m10003 for Female
+      Name: Shirt shirt_m10003 for Female
+      Gender: 0
+      CategoryCode: SHIRT
+      CategoryName: shirt
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shirt_m10003#FBX#/shirt_m10003.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfbTEwMDAzL3NoaXJ0X20xMDAwMy5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shirt_m10003#BASE_IMG#/Tex00/shirt_m10003a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfbTEwMDAzL1RleDAwL3NoaXJ0X20xMDAwM2FfQmFzZWNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shirt_m10003#NORMAL_IMG#/Tex00/shirt_m10003a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfbTEwMDAzL1RleDAwL3NoaXJ0X20xMDAwM2FfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shirt_m10003#RME_IMG#/Tex00/shirt_m10003a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hpcnQvc2hpcnRfbTEwMDAzL1RleDAwL3NoaXJ0X20xMDAwM2FfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: pants_pant_f10001
+      Description: Pants pant_f10001 for Female
+      Name: Pants pant_f10001 for Female
+      Gender: 0
+      CategoryCode: PANTS
+      CategoryName: pants
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: pants_pant_f10001#FBX#/pant_f10001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDEvcGFudF9mMTAwMDEuZmJ4
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_f10001#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDE=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_f10001#BASE_IMG#/Tex00/pant_f10001a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDEvVGV4MDAvcGFudF9mMTAwMDFhX0Jhc2VDb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: pants_pant_f10001#NORMAL_IMG#/Tex00/pant_f10001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDEvVGV4MDAvcGFudF9mMTAwMDFhX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: pants_pant_f10001#RME_IMG#/Tex00/pant_f10001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDEvVGV4MDAvcGFudF9mMTAwMDFhX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: pants_pant_f10001a
+      Description: Pants pant_f10001a for Female
+      Name: Pants pant_f10001a for Female
+      Gender: 0
+      CategoryCode: PANTS
+      CategoryName: pants
+      Rarity: 0
+      Animation: 1
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: pants_pant_f10001a#FBX#/pant_f10001a.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDFhL3BhbnRfZjEwMDAxYS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_f10001a#BASE_IMG#/Tex00/pant_f10001a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDFhL1RleDAwL3BhbnRfZjEwMDAxYV9CYXNlQ29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: pants_pant_f10001a#NORMAL_IMG#/Tex00/pant_f10001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDFhL1RleDAwL3BhbnRfZjEwMDAxYV9Ob3JtYWwucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: pants_pant_f10001a#RME_IMG#/Tex00/pant_f10001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDFhL1RleDAwL3BhbnRfZjEwMDAxYV9STUUucG5n
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: pants_pant_f10002
+      Description: Pants pant_f10002 for Female
+      Name: Pants pant_f10002 for Female
+      Gender: 0
+      CategoryCode: PANTS
+      CategoryName: pants
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: pants_pant_f10002#FBX#/pant_f10002.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDIvcGFudF9mMTAwMDIuZmJ4
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_f10002#BASE_IMG#/Tex00/pant_f10002_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDIvVGV4MDAvcGFudF9mMTAwMDJfQmFzZUNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: pants_pant_f10002#NORMAL_IMG#/Tex00/pant_f10002_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDIvVGV4MDAvcGFudF9mMTAwMDJfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: pants_pant_f10002#RME_IMG#/Tex00/pant_f10002_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMTAwMDIvVGV4MDAvcGFudF9mMTAwMDJfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: pants_pant_f30001
+      Description: Pants pant_f30001 for Female
+      Name: Pants pant_f30001 for Female
+      Gender: 0
+      CategoryCode: PANTS
+      CategoryName: pants
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: pants_pant_f30001#FBX#/pant_f30001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDEvcGFudF9mMzAwMDEuZmJ4
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_f30001#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDE=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_f30001#BASE_IMG#/Tex00/pant_f30001a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDEvVGV4MDAvcGFudF9mMzAwMDFhX0Jhc2VDb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: pants_pant_f30001#NORMAL_IMG#/Tex00/pant_f30001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDEvVGV4MDAvcGFudF9mMzAwMDFhX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: pants_pant_f30001#RME_IMG#/Tex00/pant_f30001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDEvVGV4MDAvcGFudF9mMzAwMDFhX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: pants_pant_f30002a
+      Description: Pants pant_f30002a for Female
+      Name: Pants pant_f30002a for Female
+      Gender: 0
+      CategoryCode: PANTS
+      CategoryName: pants
+      Rarity: 0
+      Animation: 1
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: pants_pant_f30002a#FBX#/pant_f30002a.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDJhL3BhbnRfZjMwMDAyYS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: pants_pant_f30002a#RME_IMG#/Tex00/pant_f30001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDJhL1RleDAwL3BhbnRfZjMwMDAxYV9STUUucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_f30002a#BASE_IMG#/Tex00/pant_f30002a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDJhL1RleDAwL3BhbnRfZjMwMDAyYV9CYXNlY29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: pants_pant_f30002a#NORMAL_IMG#/Tex00/pant_f30002a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9mMzAwMDJhL1RleDAwL3BhbnRfZjMwMDAyYV9Ob3JtYWwucG5n
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: pants_pant_m10002
+      Description: Pants pant_m10002 for Female
+      Name: Pants pant_m10002 for Female
+      Gender: 0
+      CategoryCode: PANTS
+      CategoryName: pants
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: pants_pant_m10002#FBX#/pant_m10002.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDIvcGFudF9tMTAwMDIuZmJ4
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_m10002#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDI=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_m10002#BASE_IMG#/Tex00/pant_m10002a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDIvVGV4MDAvcGFudF9tMTAwMDJhX0Jhc2Vjb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: pants_pant_m10002#NORMAL_IMG#/Tex00/pant_m10002a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDIvVGV4MDAvcGFudF9tMTAwMDJhX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: pants_pant_m10002#RME_IMG#/Tex00/pant_m10002a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDIvVGV4MDAvcGFudF9tMTAwMDJhX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: pants_pant_m10003
+      Description: Pants pant_m10003 for Female
+      Name: Pants pant_m10003 for Female
+      Gender: 0
+      CategoryCode: PANTS
+      CategoryName: pants
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: pants_pant_m10003#FBX#/pant_m10003.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDMvcGFudF9tMTAwMDMuZmJ4
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_m10003#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDM=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: pants_pant_m10003#BASE_IMG#/Tex00/pant_m10003a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDMvVGV4MDAvcGFudF9tMTAwMDNhX0Jhc2Vjb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: pants_pant_m10003#NORMAL_IMG#/Tex00/pant_m10003a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDMvVGV4MDAvcGFudF9tMTAwMDNhX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: pants_pant_m10003#RME_IMG#/Tex00/pant_m10003a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvUGFudHMvcGFudF9tMTAwMDMvVGV4MDAvcGFudF9tMTAwMDNhX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shoes_f10001
+      Description: Shoes shoes_f10001 for Female
+      Name: Shoes shoes_f10001 for Female
+      Gender: 0
+      CategoryCode: SHOES
+      CategoryName: shoes
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shoes_f10001#FBX#/shoes_f10001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAxL3Nob2VzX2YxMDAwMS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_f10001#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAx
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_f10001#BASE_IMG#/Tex00/shoes_f10001a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAxL1RleDAwL3Nob2VzX2YxMDAwMWFfQmFzZWNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shoes_f10001#NORMAL_IMG#/Tex00/shoes_f10001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAxL1RleDAwL3Nob2VzX2YxMDAwMWFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shoes_f10001#RME_IMG#/Tex00/shoes_f10001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAxL1RleDAwL3Nob2VzX2YxMDAwMWFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shoes_f10001a
+      Description: Shoes shoes_f10001a for Female
+      Name: Shoes shoes_f10001a for Female
+      Gender: 0
+      CategoryCode: SHOES
+      CategoryName: shoes
+      Rarity: 0
+      Animation: 1
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shoes_f10001a#FBX#/shoes_f10001a.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAxYS9zaG9lc19mMTAwMDFhLmZieA==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_f10001a#BASE_IMG#/Tex00/shoes_f10001a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAxYS9UZXgwMC9zaG9lc19mMTAwMDFhX0Jhc2VDb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shoes_f10001a#NORMAL_IMG#/Tex00/shoes_f10001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAxYS9UZXgwMC9zaG9lc19mMTAwMDFhX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shoes_f10001a#RME_IMG#/Tex00/shoes_f10001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAxYS9UZXgwMC9zaG9lc19mMTAwMDFhX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shoes_f10002
+      Description: Shoes shoes_f10002 for Female
+      Name: Shoes shoes_f10002 for Female
+      Gender: 0
+      CategoryCode: SHOES
+      CategoryName: shoes
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shoes_f10002#FBX#/shoes_f10002.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAyL3Nob2VzX2YxMDAwMi5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_f10002#BASE_IMG#/Tex00/shoes_f10002_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAyL1RleDAwL3Nob2VzX2YxMDAwMl9CYXNlY29sb3IucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shoes_f10002#NORMAL_IMG#/Tex00/shoes_f10002_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAyL1RleDAwL3Nob2VzX2YxMDAwMl9Ob3JtYWwucG5n
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shoes_f10002#RME_IMG#/Tex00/shoes_f10002_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjEwMDAyL1RleDAwL3Nob2VzX2YxMDAwMl9STUUucG5n
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shoes_f30001
+      Description: Shoes shoes_f30001 for Female
+      Name: Shoes shoes_f30001 for Female
+      Gender: 0
+      CategoryCode: SHOES
+      CategoryName: shoes
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shoes_f30001#FBX#/shoes_f30001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjMwMDAxL3Nob2VzX2YzMDAwMS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_f30001#BASE_IMG#/Tex00/shoes_f30001a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjMwMDAxL1RleDAwL3Nob2VzX2YzMDAwMWFfQmFzZWNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shoes_f30001#NORMAL_IMG#/Tex00/shoes_f30001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjMwMDAxL1RleDAwL3Nob2VzX2YzMDAwMWFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shoes_f30001#RME_IMG#/Tex00/shoes_f30001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjMwMDAxL1RleDAwL3Nob2VzX2YzMDAwMWFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shoes_f30002a
+      Description: Shoes shoes_f30002a for Female
+      Name: Shoes shoes_f30002a for Female
+      Gender: 0
+      CategoryCode: SHOES
+      CategoryName: shoes
+      Rarity: 0
+      Animation: 1
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shoes_f30002a#FBX#/shoes_f30002a.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjMwMDAyYS9zaG9lc19mMzAwMDJhLmZieA==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shoes_f30002a#RME_IMG#/Tex00/shoes_f30001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjMwMDAyYS9UZXgwMC9zaG9lc19mMzAwMDFhX1JNRS5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_f30002a#BASE_IMG#/Tex00/shoes_f30002a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjMwMDAyYS9UZXgwMC9zaG9lc19mMzAwMDJhX0Jhc2VDb2xvci5wbmc=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shoes_f30002a#NORMAL_IMG#/Tex00/shoes_f30002a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfZjMwMDAyYS9UZXgwMC9zaG9lc19mMzAwMDJhX05vcm1hbC5wbmc=
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shoes_m10002
+      Description: Shoes shoes_m10002 for Female
+      Name: Shoes shoes_m10002 for Female
+      Gender: 0
+      CategoryCode: SHOES
+      CategoryName: shoes
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shoes_m10002#FBX#/shoes_m10002.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAyL3Nob2VzX20xMDAwMi5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_m10002#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAy
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_m10002#BASE_IMG#/Tex00/shoes_m10002a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAyL1RleDAwL3Nob2VzX20xMDAwMmFfQmFzZWNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shoes_m10002#NORMAL_IMG#/Tex00/shoes_m10002a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAyL1RleDAwL3Nob2VzX20xMDAwMmFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shoes_m10002#RME_IMG#/Tex00/shoes_m10002a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAyL1RleDAwL3Nob2VzX20xMDAwMmFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: shoes_m10003
+      Description: Shoes shoes_m10003 for Female
+      Name: Shoes shoes_m10003 for Female
+      Gender: 0
+      CategoryCode: SHOES
+      CategoryName: shoes
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: shoes_m10003#FBX#/shoe_m10003.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAzL3Nob2VfbTEwMDAzLmZieA==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_m10003#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAz
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: shoes_m10003#BASE_IMG#/Tex00/shoes_m10003a_Basecolor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAzL1RleDAwL3Nob2VzX20xMDAwM2FfQmFzZWNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: shoes_m10003#NORMAL_IMG#/Tex00/shoes_m10003a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAzL1RleDAwL3Nob2VzX20xMDAwM2FfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: shoes_m10003#RME_IMG#/Tex00/shoes_m10003a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvU2hvZXMvc2hvZXNfbTEwMDAzL1RleDAwL3Nob2VzX20xMDAwM2FfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: hat_f10001
+      Description: Hat hat_f10001 for Female
+      Name: Hat hat_f10001 for Female
+      Gender: 0
+      CategoryCode: HAT
+      CategoryName: hat
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hat_f10001#FBX#/hat_f10001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9mMTAwMDEvaGF0X2YxMDAwMS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hat_f10001#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9mMTAwMDE=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hat_f10001#BASE_IMG#/Tex00/hat_f10001a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9mMTAwMDEvVGV4MDAvaGF0X2YxMDAwMWFfQmFzZUNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hat_f10001#NORMAL_IMG#/Tex00/hat_f10001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9mMTAwMDEvVGV4MDAvaGF0X2YxMDAwMWFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hat_f10001#RME_IMG#/Tex00/hat_f10001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9mMTAwMDEvVGV4MDAvaGF0X2YxMDAwMWFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+    - Id: hat_m10001
+      Description: Hat hat_m10001 for Female
+      Name: Hat hat_m10001 for Female
+      Gender: 0
+      CategoryCode: HAT
+      CategoryName: hat
+      Rarity: 0
+      Animation: 0
+      Resources:
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 1
+        ResourceId: hat_m10001#FBX#/hat_m10001.fbx
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9tMTAwMDEvaGF0X20xMDAwMS5mYng=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hat_m10001#BASE_IMG#
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9tMTAwMDE=
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 4
+        ResourceId: hat_m10001#BASE_IMG#/Tex00/hat_m10001a_BaseColor.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9tMTAwMDEvVGV4MDAvaGF0X20xMDAwMWFfQmFzZUNvbG9yLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 3
+        ResourceId: hat_m10001#NORMAL_IMG#/Tex00/hat_m10001a_Normal.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9tMTAwMDEvVGV4MDAvaGF0X20xMDAwMWFfTm9ybWFsLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      - isLocalResource: 0
+        texture: {fileID: 0}
+        thumbnail: {fileID: 0}
+        prefab: {fileID: 0}
+        ResourceGroups: 
+        ResourceType: 2
+        ResourceId: hat_m10001#RME_IMG#/Tex00/hat_m10001a_RME.png
+        ResourcePath: aHR0cHM6Ly90aHJlZWQtbW9kZWxzLnMzLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vRmVtYWxlMDEvSGF0L2hhdF9tMTAwMDEvVGV4MDAvaGF0X20xMDAwMWFfUk1FLnBuZw==
+        ThumbnailPath: 
+        Version: 
+      Owned: 0
+  remoteResourceUrl: https://threed-models.s3.ap-southeast-1.amazonaws.com/Female01

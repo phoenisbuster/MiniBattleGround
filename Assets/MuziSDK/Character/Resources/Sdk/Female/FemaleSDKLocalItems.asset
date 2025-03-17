@@ -1,0 +1,2063 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4736a77f241a4d18a4f4460b2f214174, type: 3}
+  m_Name: FemaleSDKLocalItems
+  m_EditorClassIdentifier: 
+  Data:
+  - CategoryCode: 1
+    LocalItems:
+    - ExternalId: female_cheek_00
+      CategoryCode: BODY_FACE
+      CategoryName: body_face
+      Title: "Khu\xF4n m\u1EB7t n\u1EEF"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Cheek/cheek_00/female_face_shape.fbx
+    - ExternalId: female_cheek_01
+      CategoryCode: BODY_FACE
+      CategoryName: body_face
+      Title: "Khu\xF4n m\u1EB7t 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Cheek/cheek_01/face_f0001.fbx
+    - ExternalId: female_cheek_02
+      CategoryCode: BODY_FACE
+      CategoryName: body_face
+      Title: "Khu\xF4n m\u1EB7t 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Cheek/cheek_02/face_f0002.fbx
+    - ExternalId: female_cheek_03
+      CategoryCode: BODY_FACE
+      CategoryName: body_face
+      Title: "Khu\xF4n m\u1EB7t 03"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Cheek/cheek_03/face_f0003.fbx
+    - ExternalId: female_cheek_04
+      CategoryCode: BODY_FACE
+      CategoryName: body_face
+      Title: "Khu\xF4n m\u1EB7t 04"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Cheek/cheek_04/face_f0004.fbx
+    - ExternalId: female_cheek_05
+      CategoryCode: BODY_FACE
+      CategoryName: body_face
+      Title: "Khu\xF4n m\u1EB7t 05"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Cheek/cheek_05/face_f0005.fbx
+  - CategoryCode: 2
+    LocalItems:
+    - ExternalId: female_hair_f10001_00
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c n\u1EEF d\xE0i"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10001/Tex00/hair_f10001_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10001/hair_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10001/Tex00/hair_f10001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10001/Tex00/hair_f10001_RME.png
+    - ExternalId: female_hair_f10004_00
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c n\u1EEF ng\u1EAFn"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10004/Tex00/hair_f10004_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10004/hair_f10004.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10004/Tex00/hair_f10004_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10004/Tex00/hair_f10004_RME.png
+    - ExternalId: female_hair_f10006a_00
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c b\u1EA1c"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006b_01
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c \u0111en"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006c_02
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c xanh"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006d_03
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c h\u1ED3ng"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006d_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006e_04
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c nhu\u1ED9m"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006e_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006f_05
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c nhu\u1ED9m"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006f_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006g_06
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c nhu\u1ED9m"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006g_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006h_07
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c nhu\u1ED9m"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006h_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006i_08
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c nhu\u1ED9m"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006i_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+    - ExternalId: female_hair_f10006j_09
+      CategoryCode: BODY_HAIR
+      CategoryName: body_hair
+      Title: "T\xF3c nhu\u1ED9m"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006j_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/hair_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hair/hair_f10006/Tex00/hair_f10006_RME.png
+  - CategoryCode: 3
+    LocalItems:
+    - ExternalId: female_eyes_00
+      CategoryCode: BODY_EYES
+      CategoryName: body_eyes
+      Title: "M\u1EAFt b\u1ED3 c\xE2u"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Eyes/eyes_00/female_eye_shape.fbx
+    - ExternalId: female_eyes_01
+      CategoryCode: BODY_EYES
+      CategoryName: body_eyes
+      Title: "M\u1EAFt 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Eyes/eyes_01/eye_f0001.fbx
+  - CategoryCode: 4
+    LocalItems:
+    - ExternalId: female_eyesbrow_01
+      CategoryCode: BODY_EYESBROWN
+      CategoryName: body_eyesbrown
+      Title: "Ch\xE2n m\xE0y 01"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Eyesbrow/eyesbrow_01/brown_f0001.fbx
+    - ExternalId: female_eyesbrow_02
+      CategoryCode: BODY_EYESBROWN
+      CategoryName: body_eyesbrown
+      Title: "Ch\xE2n m\xE0y 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Eyesbrow/eyesbrow_02/brown_f0002.fbx
+  - CategoryCode: 6
+    LocalItems:
+    - ExternalId: female_nose_00
+      CategoryCode: BODY_NOSE
+      CategoryName: body_nose
+      Title: "M\u0169i cao"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Nose/nose_00/female_nose_shape.fbx
+  - CategoryCode: 7
+    LocalItems:
+    - ExternalId: female_mouth_00
+      CategoryCode: BODY_LIP
+      CategoryName: body_lip
+      Title: "M\xF4i tr\xE1i tim"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Mouth/mouth_00/female_mouth_shape.fbx
+    - ExternalId: female_mouth_01
+      CategoryCode: BODY_LIP
+      CategoryName: body_lip
+      Title: "M\xF4i 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Mouth/mouth_01/mouth_f0001.fbx
+    - ExternalId: female_mouth_02
+      CategoryCode: BODY_LIP
+      CategoryName: body_lip
+      Title: "M\xF4i 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Mouth/mouth_02/mouth_f0002.fbx
+    - ExternalId: female_mouth_03
+      CategoryCode: BODY_LIP
+      CategoryName: body_lip
+      Title: "M\xF4i 03"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Mouth/mouth_03/mouth_f0003.fbx
+    - ExternalId: female_mouth_04
+      CategoryCode: BODY_LIP
+      CategoryName: body_lip
+      Title: "M\xF4i 04"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Mouth/mouth_04/mouth_f0004.fbx
+  - CategoryCode: 8
+    LocalItems:
+    - ExternalId: female_hat_f10001a_00
+      CategoryCode: FASHION_HAT
+      CategoryName: fashion_hat
+      Title: "N\xF3n"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10001/Tex00/hat_f10001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10001/hat_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10001/Tex00/hat_f10001a_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10001/Tex00/hat_f10001a_RME.png
+    - ExternalId: female_hat_f10002a_00
+      CategoryCode: FASHION_HAT
+      CategoryName: fashion_hat
+      Title: "L\u01B0\u1EE1i trai t\xEDm"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/hat_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002_RME.png
+    - ExternalId: female_hat_f10002b_01
+      CategoryCode: FASHION_HAT
+      CategoryName: fashion_hat
+      Title: "L\u01B0\u1EE1i trai \u0111\u1ECF"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/hat_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002_RME.png
+    - ExternalId: female_hat_f10002c_02
+      CategoryCode: FASHION_HAT
+      CategoryName: fashion_hat
+      Title: "L\u01B0\u1EE1i trai cam"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/hat_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002_RME.png
+    - ExternalId: female_hat_f10002d_03
+      CategoryCode: FASHION_HAT
+      CategoryName: fashion_hat
+      Title: "L\u01B0\u1EE1i trai xanh"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002d_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/hat_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Hat/hat_f10002/Tex00/hat_f10002_RME.png
+  - CategoryCode: 9
+    LocalItems:
+    - ExternalId: female_shirt_f10001a_01_00
+      CategoryCode: FASHION_SHIRT
+      CategoryName: fashion_shirt
+      Title: "\xC1o thun"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f10001/Tex00/shirt_f10001a_01_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f10001/shirt_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f10001/Tex00/shirt_f10001a_01_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f10001/Tex00/shirt_f10001a_01_RME.png
+    - ExternalId: female_shirt_f10002_00
+      CategoryCode: FASHION_SHIRT
+      CategoryName: fashion_shirt
+      Title: "\xC1o crop"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f10002/Tex00/shirt_f10002_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f10002/shirt_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f10002/Tex00/shirt_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f10002/Tex00/shirt_f10002_RME.png
+    - ExternalId: female_shirt_f30001a_00
+      CategoryCode: FASHION_SHIRT
+      CategoryName: fashion_shirt
+      Title: "\xC1o"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f30001/Tex00/shirt_f30001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f30001/shirt_f30001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f30001/Tex00/shirt_f30001a_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shirt/shirt_f30001/Tex00/shirt_f30001a_RME.png
+  - CategoryCode: 10
+    LocalItems:
+    - ExternalId: female_pant_f10001a_00
+      CategoryCode: FASHION_PANTS
+      CategoryName: fashion_pants
+      Title: "V\xE1y 01"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f10001/Tex00/pant_f10001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f10001/pant_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f10001/Tex00/pant_f10001a_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f10001/Tex00/pant_f10001a_RME.png
+    - ExternalId: female_pant_f10002_00
+      CategoryCode: FASHION_PANTS
+      CategoryName: fashion_pants
+      Title: "Qu\u1EA7n d\xE0i"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f10002/Tex00/pant_f10002_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f10002/pant_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f10002/Tex00/pant_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f10002/Tex00/pant_f10002_RME.png
+    - ExternalId: female_pant_f30001a_00
+      CategoryCode: FASHION_PANTS
+      CategoryName: fashion_pants
+      Title: "V\xE1y 03"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f30001/Tex00/pant_f30001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f30001/pant_f30001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f30001/Tex00/pant_f30001a_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Pants/pant_f30001/Tex00/pant_f30001a_RME.png
+  - CategoryCode: 11
+    LocalItems:
+    - ExternalId: female_shoes_f10001a_00
+      CategoryCode: FASHION_SHOE
+      CategoryName: fashion_shoe
+      Title: "Gi\xE0y Adidas"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f10001/Tex00/shoes_f10001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f10001/shoes_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f10001/Tex00/shoes_f10001a_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f10001/Tex00/shoes_f10001a_RME.png
+    - ExternalId: female_shoes_f10002_00
+      CategoryCode: FASHION_SHOE
+      CategoryName: fashion_shoe
+      Title: "Gi\xE0y Newbalance"
+      BaseType: Female
+      IsDefault: 1
+      Owned: 1
+      Equipped: 1
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f10002/Tex00/shoes_f10002_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f10002/shoes_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f10002/Tex00/shoes_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f10002/Tex00/shoes_f10002_RME.png
+    - ExternalId: female_shoes_f30001a_00
+      CategoryCode: FASHION_SHOE
+      CategoryName: fashion_shoe
+      Title: "Gi\xE0y x\u1ECBn"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f30001/Tex00/shoes_f30001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f30001/shoes_f30001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f30001/Tex00/shoes_f30001a_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Shoes/shoes_f30001/Tex00/shoes_f30001a_RME.png
+  - CategoryCode: 12
+    LocalItems:
+    - ExternalId: female_accessory_f10001a_00
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 00"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/accessory_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001_RME.png
+    - ExternalId: female_accessory_f10001b_m_01
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001b_m_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/accessory_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001_RME.png
+    - ExternalId: female_accessory_f10001c_m_02
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001c_m_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/accessory_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001_RME.png
+    - ExternalId: female_accessory_f10001d_m_03
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 03"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001d_m_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/accessory_f10001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10001/Tex00/accessory_f10001_RME.png
+    - ExternalId: female_accessory_f10002a_00
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 00"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/accessory_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002_RME.png
+    - ExternalId: female_accessory_f10002b_01
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/accessory_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002_RME.png
+    - ExternalId: female_accessory_f10002c_02
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/accessory_f10002.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10002/Tex00/accessory_f10002_RME.png
+    - ExternalId: female_accessory_f10004a_00
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 00"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/accessory_f10004.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004_RME.png
+    - ExternalId: female_accessory_f10004b_01
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/accessory_f10004.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004_RME.png
+    - ExternalId: female_accessory_f10004c_02
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/accessory_f10004.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004_RME.png
+    - ExternalId: female_accessory_f10004d_03
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 03"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004d_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/accessory_f10004.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10004/Tex00/accessory_f10004_RME.png
+    - ExternalId: female_accessory_f10005a_00
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 00"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/accessory_f10005.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_RME.png
+    - ExternalId: female_accessory_f10005b_01
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/accessory_f10005.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_RME.png
+    - ExternalId: female_accessory_f10005c_02
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/accessory_f10005.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_RME.png
+    - ExternalId: female_accessory_f10005d_03
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 03"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005d_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/accessory_f10005.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_RME.png
+    - ExternalId: female_accessory_f10005e_04
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 04"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005e_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/accessory_f10005.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_RME.png
+    - ExternalId: female_accessory_f10005f_05
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 05"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005f_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/accessory_f10005.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_RME.png
+    - ExternalId: female_accessory_f10005g_06
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 06"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005g_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/accessory_f10005.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_RME.png
+    - ExternalId: female_accessory_f10005h_07
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 07"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005h_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/accessory_f10005.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10005/Tex00/accessory_f10005_RME.png
+    - ExternalId: female_accessory_f10006a_00
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 00"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/accessory_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_RME.png
+    - ExternalId: female_accessory_f10006b_01
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/accessory_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_RME.png
+    - ExternalId: female_accessory_f10006c_02
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/accessory_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_RME.png
+    - ExternalId: female_accessory_f10006d_03
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 03"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006d_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/accessory_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_RME.png
+    - ExternalId: female_accessory_f10006e_04
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 04"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006e_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/accessory_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_RME.png
+    - ExternalId: female_accessory_f10006f_05
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 05"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006f_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/accessory_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_RME.png
+    - ExternalId: female_accessory_f10006g_06
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 06"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006g_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/accessory_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_RME.png
+    - ExternalId: female_accessory_f10006h_07
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 07"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006h_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/accessory_f10006.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f10006/Tex00/accessory_f10006_RME.png
+    - ExternalId: female_accessory_f20001a_00
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 00"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/accessory_f20001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001_RME.png
+    - ExternalId: female_accessory_f20001b_01
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 01"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/accessory_f20001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001_RME.png
+    - ExternalId: female_accessory_f20001c_02
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 02"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/accessory_f20001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001_RME.png
+    - ExternalId: female_accessory_f20001d_03
+      CategoryCode: FASHION_ACCESSORIES
+      CategoryName: fashion_accessories
+      Title: "Ph\u1EE5 ki\u1EC7n 03"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001d_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/accessory_f20001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Accessories/accessory_f20001/Tex00/accessory_f20001_RME.png
+  - CategoryCode: 13
+    LocalItems:
+    - ExternalId: female_set_f20001a_00
+      CategoryCode: FASHION_FULLSET
+      CategoryName: fashion_fullset
+      Title: "Set \u0111\u1ED3 \u0111i ti\u1EC7c"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/set_f20001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001_RME.png
+    - ExternalId: female_set_f20001b_01
+      CategoryCode: FASHION_FULLSET
+      CategoryName: fashion_fullset
+      Title: "Set \u0111\u1ED3 \u0111i ch\u01A1i"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/set_f20001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001_RME.png
+    - ExternalId: female_set_f20001c_02
+      CategoryCode: FASHION_FULLSET
+      CategoryName: fashion_fullset
+      Title: "Set \u0111\u1ED3 \u0111i nh\u1EA3y"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/set_f20001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001_RME.png
+    - ExternalId: female_set_f20001d_03
+      CategoryCode: FASHION_FULLSET
+      CategoryName: fashion_fullset
+      Title: "Set \u0111\u1ED3 ca s\u0129"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001d_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/set_f20001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f20001/Tex00/set_f20001_RME.png
+    - ExternalId: female_set_f30001_01_00
+      CategoryCode: FASHION_FULLSET
+      CategoryName: fashion_fullset
+      Title: "Set \u0111\u1ED3 di\u1EC5n vi\xEAn"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f30001/Tex00/set_f30001_01_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f30001/set_f30001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f30001/Tex00/set_f30001_01_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Set/set_f30001/Tex00/set_f30001_01_RME.png
+  - CategoryCode: 14
+    LocalItems:
+    - ExternalId: female_accessory_f30001a_00
+      CategoryCode: FASHION_INSTRUMENT
+      CategoryName: fashion_instrument
+      Title: "\u0110\xE0n keytar"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001a_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/accessory_f30001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001_RME.png
+    - ExternalId: female_accessory_f30001b_01
+      CategoryCode: FASHION_INSTRUMENT
+      CategoryName: fashion_instrument
+      Title: "\u0110\xE0n keytar"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001b_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/accessory_f30001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001_RME.png
+    - ExternalId: female_accessory_f30001c_02
+      CategoryCode: FASHION_INSTRUMENT
+      CategoryName: fashion_instrument
+      Title: "\u0110\xE0n keytar"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001c_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/accessory_f30001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001_RME.png
+    - ExternalId: female_accessory_f30001d_03
+      CategoryCode: FASHION_INSTRUMENT
+      CategoryName: fashion_instrument
+      Title: "\u0110\xE0n keytar"
+      BaseType: Female
+      IsDefault: 0
+      Owned: 0
+      Equipped: 0
+      AlwaysFetchFromServer: 0
+      InitializedWithPool: 0
+      Resources:
+      - ResourceType: 4
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001d_Basecolor.png
+      - ResourceType: 1
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/accessory_f30001.fbx
+      - ResourceType: 3
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001_Normal.png
+      - ResourceType: 2
+        Texture: {fileID: 0}
+        FbxPrefab: {fileID: 0}
+        LocalResourcePath: Sdk/Female/Instrument/instrument_f30001/Tex00/accessory_f30001_RME.png

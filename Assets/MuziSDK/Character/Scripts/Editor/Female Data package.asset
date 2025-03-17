@@ -1,0 +1,2434 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 715cf936dff7548adaed920300c02642, type: 3}
+  m_Name: Female Data package
+  m_EditorClassIdentifier: 
+  relativePath: ArtistWork/Resources/Female
+  textureFolderPrefix: Tex
+  baseType: 2
+  zipDescription: UpdateFemale
+  zipVersion: 6
+  config:
+    manifest:
+    - externalId: female_cheek_00
+      rarity: COMMON
+      description: cheek_00
+      title: "Khu\xF4n m\u1EB7t n\u1EEF"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_00
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /female_face_shape.fbx
+        clientGroups: []
+    - externalId: female_cheek_01
+      rarity: COMMON
+      description: cheek_01
+      title: "Khu\xF4n m\u1EB7t 01"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_01
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0001.fbx
+        clientGroups: []
+    - externalId: female_cheek_02
+      rarity: COMMON
+      description: cheek_02
+      title: "Khu\xF4n m\u1EB7t 02"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_02
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0002.fbx
+        clientGroups: []
+    - externalId: female_cheek_03
+      rarity: COMMON
+      description: cheek_03
+      title: "Khu\xF4n m\u1EB7t 03"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_03
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0003.fbx
+        clientGroups: []
+    - externalId: female_cheek_04
+      rarity: COMMON
+      description: cheek_04
+      title: "Khu\xF4n m\u1EB7t 04"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_04
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0004.fbx
+        clientGroups: []
+    - externalId: female_cheek_05
+      rarity: COMMON
+      description: cheek_05
+      title: "Khu\xF4n m\u1EB7t 05"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_05
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0005.fbx
+        clientGroups: []
+    - externalId: female_cheek_06
+      rarity: COMMON
+      description: cheek_06
+      title: "Khu\xF4n m\u1EB7t 06"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_06
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0006.fbx
+        clientGroups: []
+    - externalId: female_cheek_07
+      rarity: COMMON
+      description: cheek_07
+      title: "Khu\xF4n m\u1EB7t 07"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_07
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0007.fbx
+        clientGroups: []
+    - externalId: female_cheek_08
+      rarity: COMMON
+      description: cheek_08
+      title: "Khu\xF4n m\u1EB7t 08"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_08
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0008.fbx
+        clientGroups: []
+    - externalId: female_cheek_09
+      rarity: COMMON
+      description: cheek_09
+      title: "Khu\xF4n m\u1EB7t 09"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_09
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0009.fbx
+        clientGroups: []
+    - externalId: female_cheek_10
+      rarity: COMMON
+      description: cheek_10
+      title: "Khu\xF4n m\u1EB7t 10"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_10
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0010.fbx
+        clientGroups: []
+    - externalId: female_cheek_11
+      rarity: COMMON
+      description: cheek_11
+      title: "Khu\xF4n m\u1EB7t 11"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_11
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0011.fbx
+        clientGroups: []
+    - externalId: female_cheek_12
+      rarity: COMMON
+      description: cheek_12
+      title: "Khu\xF4n m\u1EB7t 12"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_12
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0012.fbx
+        clientGroups: []
+    - externalId: female_cheek_13
+      rarity: COMMON
+      description: cheek_13
+      title: "Khu\xF4n m\u1EB7t 13"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/cheek_13
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /face_f0013.fbx
+        clientGroups: []
+    - externalId: female_hair_f10001_00
+      rarity: COMMON
+      description: hair_f10001
+      title: "T\xF3c n\u1EEF d\xE0i"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10001_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10001_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10004_00
+      rarity: COMMON
+      description: hair_f10004
+      title: "T\xF3c n\u1EEF ng\u1EAFn"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10004_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10004_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006a_00
+      rarity: COMMON
+      description: hair_f10006
+      title: "T\xF3c b\u1EA1c"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006b_01
+      rarity: COMMON
+      description: Variant 01 of hair_f10006
+      title: "T\xF3c \u0111en"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006c_02
+      rarity: COMMON
+      description: Variant 02 of hair_f10006
+      title: "T\xF3c xanh"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006d_03
+      rarity: COMMON
+      description: Variant 03 of hair_f10006
+      title: "T\xF3c h\u1ED3ng"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006e_04
+      rarity: COMMON
+      description: Variant 04 of hair_f10006
+      title: "T\xF3c nhu\u1ED9m"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006f_05
+      rarity: COMMON
+      description: Variant 05 of hair_f10006
+      title: "T\xF3c nhu\u1ED9m"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006g_06
+      rarity: COMMON
+      description: Variant 06 of hair_f10006
+      title: "T\xF3c nhu\u1ED9m"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006h_07
+      rarity: COMMON
+      description: Variant 07 of hair_f10006
+      title: "T\xF3c nhu\u1ED9m"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006i_08
+      rarity: COMMON
+      description: Variant 08 of hair_f10006
+      title: "T\xF3c nhu\u1ED9m"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006i_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_hair_f10006j_09
+      rarity: COMMON
+      description: Variant 09 of hair_f10006
+      title: "T\xF3c nhu\u1ED9m"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_f10006j_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_f10006_RME.png
+        clientGroups: []
+    - externalId: female_eyes_00
+      rarity: COMMON
+      description: eyes_00
+      title: "M\u1EAFt b\u1ED3 c\xE2u"
+      categoryCode: BODY_EYES
+      rootPath: /Eyes/eyes_00
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /female_eye_shape.fbx
+        clientGroups: []
+    - externalId: female_eyes_01
+      rarity: COMMON
+      description: eyes_01
+      title: "M\u1EAFt 01"
+      categoryCode: BODY_EYES
+      rootPath: /Eyes/eyes_01
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /eye_f0001.fbx
+        clientGroups: []
+    - externalId: female_eyes_02
+      rarity: COMMON
+      description: eyes_02
+      title: "M\u1EAFt 02"
+      categoryCode: BODY_EYES
+      rootPath: /Eyes/eyes_02
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /eye_f0002.fbx
+        clientGroups: []
+    - externalId: female_eyes_03
+      rarity: COMMON
+      description: eyes_03
+      title: "M\u1EAFt 03"
+      categoryCode: BODY_EYES
+      rootPath: /Eyes/eyes_03
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /eye_f0003.fbx
+        clientGroups: []
+    - externalId: female_nose_00
+      rarity: COMMON
+      description: nose_00
+      title: "M\u0169i cao"
+      categoryCode: BODY_NOSE
+      rootPath: /Nose/nose_00
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /female_nose_shape.fbx
+        clientGroups: []
+    - externalId: female_mouth_00
+      rarity: COMMON
+      description: mouth_00
+      title: "M\xF4i tr\xE1i tim"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_00
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /female_mouth_shape.fbx
+        clientGroups: []
+    - externalId: female_mouth_01
+      rarity: COMMON
+      description: mouth_01
+      title: "M\xF4i 01"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_01
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0001.fbx
+        clientGroups: []
+    - externalId: female_mouth_02
+      rarity: COMMON
+      description: mouth_02
+      title: "M\xF4i 02"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_02
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0002.fbx
+        clientGroups: []
+    - externalId: female_mouth_03
+      rarity: COMMON
+      description: mouth_03
+      title: "M\xF4i 03"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_03
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0003.fbx
+        clientGroups: []
+    - externalId: female_mouth_04
+      rarity: COMMON
+      description: mouth_04
+      title: "M\xF4i 04"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_04
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0004.fbx
+        clientGroups: []
+    - externalId: female_mouth_05
+      rarity: COMMON
+      description: mouth_05
+      title: "M\xF4i 05"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_05
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0005.fbx
+        clientGroups: []
+    - externalId: female_mouth_06
+      rarity: COMMON
+      description: mouth_06
+      title: "M\xF4i 06"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_06
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0006.fbx
+        clientGroups: []
+    - externalId: female_mouth_07
+      rarity: COMMON
+      description: mouth_07
+      title: "M\xF4i 07"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_07
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0007.fbx
+        clientGroups: []
+    - externalId: female_mouth_08
+      rarity: COMMON
+      description: mouth_08
+      title: "M\xF4i 08"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_08
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0008.fbx
+        clientGroups: []
+    - externalId: female_mouth_09
+      rarity: COMMON
+      description: mouth_09
+      title: "M\xF4i 09"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_09
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0009.fbx
+        clientGroups: []
+    - externalId: female_mouth_10
+      rarity: COMMON
+      description: mouth_10
+      title: "M\xF4i 10"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_10
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0010.fbx
+        clientGroups: []
+    - externalId: female_mouth_11
+      rarity: COMMON
+      description: mouth_11
+      title: "M\xF4i 11"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_11
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0011.fbx
+        clientGroups: []
+    - externalId: female_mouth_12
+      rarity: COMMON
+      description: mouth_12
+      title: "M\xF4i 12"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_12
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0012.fbx
+        clientGroups: []
+    - externalId: female_mouth_13
+      rarity: COMMON
+      description: mouth_13
+      title: "M\xF4i 13"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_13
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0013.fbx
+        clientGroups: []
+    - externalId: female_mouth_14
+      rarity: COMMON
+      description: mouth_14
+      title: "M\xF4i 14"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_14
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0014.fbx
+        clientGroups: []
+    - externalId: female_mouth_15
+      rarity: COMMON
+      description: mouth_15
+      title: "M\xF4i 15"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_15
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0015.fbx
+        clientGroups: []
+    - externalId: female_mouth_16
+      rarity: COMMON
+      description: mouth_16
+      title: "M\xF4i 16"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_16
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0016.fbx
+        clientGroups: []
+    - externalId: female_mouth_17
+      rarity: COMMON
+      description: mouth_17
+      title: "M\xF4i 17"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_17
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0017.fbx
+        clientGroups: []
+    - externalId: female_mouth_18
+      rarity: COMMON
+      description: mouth_18
+      title: "M\xF4i 18"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_18
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0018.fbx
+        clientGroups: []
+    - externalId: female_mouth_19
+      rarity: COMMON
+      description: mouth_19
+      title: "M\xF4i 19"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_19
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0019.fbx
+        clientGroups: []
+    - externalId: female_mouth_20
+      rarity: COMMON
+      description: mouth_20
+      title: "M\xF4i 20"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_20
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0020.fbx
+        clientGroups: []
+    - externalId: female_mouth_21
+      rarity: COMMON
+      description: mouth_21
+      title: "M\xF4i 21"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/mouth_21
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /mouth_f0021.fbx
+        clientGroups: []
+    - externalId: female_hat_f10001a_00
+      rarity: COMMON
+      description: hat_f10001
+      title: "N\xF3n"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_f10001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_f10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_f10001a_RME.png
+        clientGroups: []
+    - externalId: female_hat_f10002a_00
+      rarity: COMMON
+      description: hat_f10002
+      title: "L\u01B0\u1EE1i trai t\xEDm"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_f10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_f10002_RME.png
+        clientGroups: []
+    - externalId: female_hat_f10002b_01
+      rarity: COMMON
+      description: Variant 01 of hat_f10002
+      title: "L\u01B0\u1EE1i trai \u0111\u1ECF"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_f10002b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_f10002_RME.png
+        clientGroups: []
+    - externalId: female_hat_f10002c_02
+      rarity: COMMON
+      description: Variant 02 of hat_f10002
+      title: "L\u01B0\u1EE1i trai cam"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_f10002c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_f10002_RME.png
+        clientGroups: []
+    - externalId: female_hat_f10002d_03
+      rarity: COMMON
+      description: Variant 03 of hat_f10002
+      title: "L\u01B0\u1EE1i trai xanh"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_f10002d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_f10002_RME.png
+        clientGroups: []
+    - externalId: female_shirt_f10001a_01_00
+      rarity: COMMON
+      description: shirt_f10001
+      title: "\xC1o thun"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_f10001a_01_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_f10001a_01_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_f10001a_01_RME.png
+        clientGroups: []
+    - externalId: female_shirt_f10002_00
+      rarity: COMMON
+      description: shirt_f10002
+      title: "\xC1o crop"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_f10002_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_f10002_RME.png
+        clientGroups: []
+    - externalId: female_shirt_f30001a_00
+      rarity: COMMON
+      description: shirt_f30001
+      title: "\xC1o"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_f30001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_f30001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_f30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_f30001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_f30001a_RME.png
+        clientGroups: []
+    - externalId: female_pant_f10001a_00
+      rarity: COMMON
+      description: pant_f10001
+      title: "V\xE1y 01"
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pant_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_f10001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_f10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_f10001a_RME.png
+        clientGroups: []
+    - externalId: female_pant_f10002_00
+      rarity: COMMON
+      description: pant_f10002
+      title: "Qu\u1EA7n d\xE0i"
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pant_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_f10002_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_f10002_RME.png
+        clientGroups: []
+    - externalId: female_pant_f30001a_00
+      rarity: COMMON
+      description: pant_f30001
+      title: "V\xE1y 03"
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pant_f30001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_f30001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_f30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_f30001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_f30001a_RME.png
+        clientGroups: []
+    - externalId: female_shoes_f10001a_00
+      rarity: COMMON
+      description: shoes_f10001
+      title: "Gi\xE0y Adidas"
+      categoryCode: FASHION_SHOE
+      rootPath: /Shoes/shoes_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shoes_f10001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shoes_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shoes_f10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shoes_f10001a_RME.png
+        clientGroups: []
+    - externalId: female_shoes_f10002_00
+      rarity: COMMON
+      description: shoes_f10002
+      title: "Gi\xE0y Newbalance"
+      categoryCode: FASHION_SHOE
+      rootPath: /Shoes/shoes_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shoes_f10002_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shoes_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shoes_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shoes_f10002_RME.png
+        clientGroups: []
+    - externalId: female_shoes_f10003
+      rarity: COMMON
+      description: shoes_f10003
+      title: "Gi\xE0y Muzi Limited"
+      categoryCode: FASHION_SHOE
+      rootPath: /Shoes/shoes_f10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: FBX
+        paths:
+        - /shoes_f10003.fbx
+        clientGroups: []
+    - externalId: female_shoes_f30001a_00
+      rarity: COMMON
+      description: shoes_f30001
+      title: "Gi\xE0y x\u1ECBn"
+      categoryCode: FASHION_SHOE
+      rootPath: /Shoes/shoes_f30001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shoes_f30001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shoes_f30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shoes_f30001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shoes_f30001a_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10001a_00
+      rarity: COMMON
+      description: accessory_f10001
+      title: "Ph\u1EE5 ki\u1EC7n 00"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10001b_m_01
+      rarity: COMMON
+      description: Variant 01 of accessory_f10001
+      title: "Ph\u1EE5 ki\u1EC7n 01"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10001b_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10001c_m_02
+      rarity: COMMON
+      description: Variant 02 of accessory_f10001
+      title: "Ph\u1EE5 ki\u1EC7n 02"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10001c_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10001d_m_03
+      rarity: COMMON
+      description: Variant 03 of accessory_f10001
+      title: "Ph\u1EE5 ki\u1EC7n 03"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10001d_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10002a_00
+      rarity: COMMON
+      description: accessory_f10002
+      title: "Ph\u1EE5 ki\u1EC7n 00"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10002_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10002b_01
+      rarity: COMMON
+      description: Variant 01 of accessory_f10002
+      title: "Ph\u1EE5 ki\u1EC7n 01"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10002b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10002_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10002c_02
+      rarity: COMMON
+      description: Variant 02 of accessory_f10002
+      title: "Ph\u1EE5 ki\u1EC7n 02"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10002c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10002_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10004a_00
+      rarity: COMMON
+      description: accessory_f10004
+      title: "Ph\u1EE5 ki\u1EC7n 00"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10004a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10004_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10004b_01
+      rarity: COMMON
+      description: Variant 01 of accessory_f10004
+      title: "Ph\u1EE5 ki\u1EC7n 01"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10004b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10004_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10004c_02
+      rarity: COMMON
+      description: Variant 02 of accessory_f10004
+      title: "Ph\u1EE5 ki\u1EC7n 02"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10004c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10004_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10004d_03
+      rarity: COMMON
+      description: Variant 03 of accessory_f10004
+      title: "Ph\u1EE5 ki\u1EC7n 03"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10004d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10004_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10005a_00
+      rarity: COMMON
+      description: accessory_f10005
+      title: "Ph\u1EE5 ki\u1EC7n 00"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10005a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10005_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10005b_01
+      rarity: COMMON
+      description: Variant 01 of accessory_f10005
+      title: "Ph\u1EE5 ki\u1EC7n 01"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10005b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10005_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10005c_02
+      rarity: COMMON
+      description: Variant 02 of accessory_f10005
+      title: "Ph\u1EE5 ki\u1EC7n 02"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10005c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10005_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10005d_03
+      rarity: COMMON
+      description: Variant 03 of accessory_f10005
+      title: "Ph\u1EE5 ki\u1EC7n 03"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10005d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10005_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10005e_04
+      rarity: COMMON
+      description: Variant 04 of accessory_f10005
+      title: "Ph\u1EE5 ki\u1EC7n 04"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10005e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10005_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10005f_05
+      rarity: COMMON
+      description: Variant 05 of accessory_f10005
+      title: "Ph\u1EE5 ki\u1EC7n 05"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10005f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10005_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10005g_06
+      rarity: COMMON
+      description: Variant 06 of accessory_f10005
+      title: "Ph\u1EE5 ki\u1EC7n 06"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10005g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10005_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10005h_07
+      rarity: COMMON
+      description: Variant 07 of accessory_f10005
+      title: "Ph\u1EE5 ki\u1EC7n 07"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10005h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10005_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10006a_00
+      rarity: COMMON
+      description: accessory_f10006
+      title: "Ph\u1EE5 ki\u1EC7n 00"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10006a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10006_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10006b_01
+      rarity: COMMON
+      description: Variant 01 of accessory_f10006
+      title: "Ph\u1EE5 ki\u1EC7n 01"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10006b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10006_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10006c_02
+      rarity: COMMON
+      description: Variant 02 of accessory_f10006
+      title: "Ph\u1EE5 ki\u1EC7n 02"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10006c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10006_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10006d_03
+      rarity: COMMON
+      description: Variant 03 of accessory_f10006
+      title: "Ph\u1EE5 ki\u1EC7n 03"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10006d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10006_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10006e_04
+      rarity: COMMON
+      description: Variant 04 of accessory_f10006
+      title: "Ph\u1EE5 ki\u1EC7n 04"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10006e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10006_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10006f_05
+      rarity: COMMON
+      description: Variant 05 of accessory_f10006
+      title: "Ph\u1EE5 ki\u1EC7n 05"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10006f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10006_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10006g_06
+      rarity: COMMON
+      description: Variant 06 of accessory_f10006
+      title: "Ph\u1EE5 ki\u1EC7n 06"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10006g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10006_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f10006h_07
+      rarity: COMMON
+      description: Variant 07 of accessory_f10006
+      title: "Ph\u1EE5 ki\u1EC7n 07"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f10006h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f10006_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f20001a_00
+      rarity: COMMON
+      description: accessory_f20001
+      title: "Ph\u1EE5 ki\u1EC7n 00"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f20001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f20001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f20001b_01
+      rarity: COMMON
+      description: Variant 01 of accessory_f20001
+      title: "Ph\u1EE5 ki\u1EC7n 01"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f20001b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f20001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f20001c_02
+      rarity: COMMON
+      description: Variant 02 of accessory_f20001
+      title: "Ph\u1EE5 ki\u1EC7n 02"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f20001c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f20001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f20001d_03
+      rarity: COMMON
+      description: Variant 03 of accessory_f20001
+      title: "Ph\u1EE5 ki\u1EC7n 03"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessory_f20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f20001d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f20001_RME.png
+        clientGroups: []
+    - externalId: female_set_f20001a_00
+      rarity: COMMON
+      description: set_f20001
+      title: "Set \u0111\u1ED3 \u0111i ti\u1EC7c"
+      categoryCode: FASHION_FULLSET
+      rootPath: /Set/set_f20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/set_f20001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /set_f20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/set_f20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/set_f20001_RME.png
+        clientGroups: []
+    - externalId: female_set_f20001b_01
+      rarity: COMMON
+      description: Variant 01 of set_f20001
+      title: "Set \u0111\u1ED3 \u0111i ch\u01A1i"
+      categoryCode: FASHION_FULLSET
+      rootPath: /Set/set_f20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/set_f20001b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /set_f20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/set_f20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/set_f20001_RME.png
+        clientGroups: []
+    - externalId: female_set_f20001c_02
+      rarity: COMMON
+      description: Variant 02 of set_f20001
+      title: "Set \u0111\u1ED3 \u0111i nh\u1EA3y"
+      categoryCode: FASHION_FULLSET
+      rootPath: /Set/set_f20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/set_f20001c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /set_f20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/set_f20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/set_f20001_RME.png
+        clientGroups: []
+    - externalId: female_set_f20001d_03
+      rarity: COMMON
+      description: Variant 03 of set_f20001
+      title: "Set \u0111\u1ED3 ca s\u0129"
+      categoryCode: FASHION_FULLSET
+      rootPath: /Set/set_f20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/set_f20001d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /set_f20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/set_f20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/set_f20001_RME.png
+        clientGroups: []
+    - externalId: female_set_f30001_01_00
+      rarity: COMMON
+      description: set_f30001
+      title: "Set \u0111\u1ED3 di\u1EC5n vi\xEAn"
+      categoryCode: FASHION_FULLSET
+      rootPath: /Set/set_f30001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/set_f30001_01_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /set_f30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/set_f30001_01_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/set_f30001_01_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f30001a_00
+      rarity: COMMON
+      description: instrument_f30001
+      title: "\u0110\xE0n keytar"
+      categoryCode: FASHION_INSTRUMENT
+      rootPath: /Instrument/instrument_f30001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f30001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f30001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f30001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f30001b_01
+      rarity: COMMON
+      description: Variant 01 of instrument_f30001
+      title: "\u0110\xE0n keytar"
+      categoryCode: FASHION_INSTRUMENT
+      rootPath: /Instrument/instrument_f30001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f30001b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f30001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f30001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f30001c_02
+      rarity: COMMON
+      description: Variant 02 of instrument_f30001
+      title: "\u0110\xE0n keytar"
+      categoryCode: FASHION_INSTRUMENT
+      rootPath: /Instrument/instrument_f30001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f30001c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f30001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f30001_RME.png
+        clientGroups: []
+    - externalId: female_accessory_f30001d_03
+      rarity: COMMON
+      description: Variant 03 of instrument_f30001
+      title: "\u0110\xE0n keytar"
+      categoryCode: FASHION_INSTRUMENT
+      rootPath: /Instrument/instrument_f30001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: FEMALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_f30001d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_f30001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_f30001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_f30001_RME.png
+        clientGroups: []
+  localResourcesInfo: {fileID: 11400000, guid: bc783e74a7a774165aae18754f6801d5, type: 2}

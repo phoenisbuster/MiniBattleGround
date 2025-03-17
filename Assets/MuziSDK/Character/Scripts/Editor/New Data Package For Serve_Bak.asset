@@ -1,0 +1,2601 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 715cf936dff7548adaed920300c02642, type: 3}
+  m_Name: New Data Package For Serve_Bak
+  m_EditorClassIdentifier: 
+  relativePath: ArtistWork/Resources/Male
+  textureFolderPrefix: Tex
+  baseType: 3
+  zipDescription: UpdateTitle
+  zipVersion: 10
+  config:
+    manifest:
+    - externalId: male_cheek_00
+      rarity: COMMON
+      description: 00
+      title: "Khu\xF4n m\u1EB7t nam c\xE2n \u0111\u1ED1i"
+      categoryCode: BODY_FACE
+      rootPath: /Cheek/00
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+    - externalId: male_hair_m10002a_00
+      rarity: COMMON
+      description: hair_m10002
+      title: "T\xF3c Songoku c\xE0i xanh"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10002a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10002b_01
+      rarity: COMMON
+      description: Variant 01 of hair_m10002
+      title: "T\xF3c Songoku c\xE0i \u0111\u1ECF"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10002b_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003a_00
+      rarity: COMMON
+      description: hair_m10003
+      title: "T\xF3c nam b\xFAi \u0111en"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003b_01
+      rarity: COMMON
+      description: Variant 01 of hair_m10003
+      title: "T\xF3c nam b\xFAi h\u1ED3ng"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003b_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003c_02
+      rarity: COMMON
+      description: Variant 02 of hair_m10003
+      title: "T\xF3c nam b\xFAi xanh"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003c_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003d_03
+      rarity: COMMON
+      description: Variant 03 of hair_m10003
+      title: "T\xF3c nam b\xFAi xanh d\u01B0\u01A1ng \u0111en"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003d_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003e_04
+      rarity: COMMON
+      description: Variant 04 of hair_m10003
+      title: "T\xF3c nam b\xFAi 3 m\xE0u"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003e_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003f_05
+      rarity: COMMON
+      description: Variant 05 of hair_m10003
+      title: "T\xF3c nam b\xFAi v\xE0ng cam"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003f_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003g_06
+      rarity: COMMON
+      description: Variant 06 of hair_m10003
+      title: "T\xF3c name b\xFAi xanh hi v\u1ECDng"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003g_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003h_07
+      rarity: COMMON
+      description: Variant 07 of hair_m10003
+      title: "T\xF3c nam b\xFAi graffiti"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003h_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003i_08
+      rarity: COMMON
+      description: Variant 08 of hair_m10003
+      title: "T\xF3c nam b\xFAi xanh tr\u1EAFng"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003i_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10003j_09
+      rarity: COMMON
+      description: Variant 09 of hair_m10003
+      title: "T\xF3c nam b\xFAi h\u01B0\u1EDDng c\xE1nh sen"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10003j_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10003_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10003_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004a_00
+      rarity: COMMON
+      description: hair_m10004
+      title: "T\xF3c nam \u0111en"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004b_01
+      rarity: COMMON
+      description: Variant 01 of hair_m10004
+      title: "T\xF3c nam \u0111en \u0111\u1ECF"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004b_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004c_02
+      rarity: COMMON
+      description: Variant 02 of hair_m10004
+      title: "T\xF3c nam xanh"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004c_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004d_03
+      rarity: COMMON
+      description: Variant 03 of hair_m10004
+      title: "T\xF3c nam h\u1ED3ng xanh"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004d_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004e_04
+      rarity: COMMON
+      description: Variant 04 of hair_m10004
+      title: "T\xF3c nam xanh t\xEDm l\u1ECBm"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004e_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004f_05
+      rarity: COMMON
+      description: Variant 05 of hair_m10004
+      title: "T\xF3c nam m\xF9a h\xE8 r\u1EF1c l\u1EEDa"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004f_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004g_06
+      rarity: COMMON
+      description: Variant 06 of hair_m10004
+      title: "T\xF3c nam ch\xF3i chang"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004g_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004h_07
+      rarity: COMMON
+      description: Variant 07 of hair_m10004
+      title: "T\xF3c nam h\u01B0\u1EDDng"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004h_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004i_08
+      rarity: COMMON
+      description: Variant 08 of hair_m10004
+      title: "T\xF3c nam xanh"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004i_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m10004j_09
+      rarity: COMMON
+      description: Variant 09 of hair_m10004
+      title: "T\xF3c nam \u0111en h\u01B0\u1EDDng"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m10004j_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m10004_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001_00
+      rarity: COMMON
+      description: hair_m20001
+      title: "T\xF3c nam \u0111\u1ECF"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001a_01
+      rarity: COMMON
+      description: Variant 01 of hair_m20001
+      title: "T\xF3c nam cam h\u01B0\u1EDDng"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001b_02
+      rarity: COMMON
+      description: Variant 02 of hair_m20001
+      title: "T\xF3c nam xanh mint"
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001c_03
+      rarity: COMMON
+      description: Variant 03 of hair_m20001
+      title: "T\xF3c nam "
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001d_04
+      rarity: COMMON
+      description: Variant 04 of hair_m20001
+      title: "T\xF3c nam "
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001e_05
+      rarity: COMMON
+      description: Variant 05 of hair_m20001
+      title: "T\xF3c nam "
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001f_06
+      rarity: COMMON
+      description: Variant 06 of hair_m20001
+      title: "T\xF3c nam "
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001g_07
+      rarity: COMMON
+      description: Variant 07 of hair_m20001
+      title: "T\xF3c nam "
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001h_08
+      rarity: COMMON
+      description: Variant 08 of hair_m20001
+      title: "T\xF3c nam "
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001i_09
+      rarity: COMMON
+      description: Variant 09 of hair_m20001
+      title: "T\xF3c nam "
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001i_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_hair_m20001k_10
+      rarity: COMMON
+      description: Variant 10 of hair_m20001
+      title: "T\xF3c nam "
+      categoryCode: BODY_HAIR
+      rootPath: /Hair/hair_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hair_m20001k_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hair_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hair_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hair_m20001_RME.png
+        clientGroups: []
+    - externalId: male_eyes_00
+      rarity: COMMON
+      description: 00
+      title: "M\u1EAFt nam"
+      categoryCode: BODY_EYES
+      rootPath: /Eyes/00
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+    - externalId: male_beard_01_00
+      rarity: COMMON
+      description: beard_01
+      title: "R\xE2u quai n\xF3n"
+      categoryCode: BODY_BEARD
+      rootPath: /Beard/beard_01
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/beard_01_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /beard_01.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/beard_01_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/beard_01_RME.png
+        clientGroups: []
+    - externalId: male_beard_02_00
+      rarity: COMMON
+      description: beard_02
+      title: "R\xE2u nam 01"
+      categoryCode: BODY_BEARD
+      rootPath: /Beard/beard_02
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/beard_02_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /beard_02.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/beard_02_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/beard_02_RME.png
+        clientGroups: []
+    - externalId: male_beard_03_00
+      rarity: COMMON
+      description: beard_03
+      title: "R\xE2u nam 02"
+      categoryCode: BODY_BEARD
+      rootPath: /Beard/beard_03
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/beard_03_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /beard_03.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/beard_03_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/beard_03_RME.png
+        clientGroups: []
+    - externalId: male_beard_06_00
+      rarity: COMMON
+      description: beard_06
+      title: "R\xE2u nam 03"
+      categoryCode: BODY_BEARD
+      rootPath: /Beard/beard_06
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/beard_06_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /beard_06.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/beard_06_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/beard_06_RME.png
+        clientGroups: []
+    - externalId: male_nose_00
+      rarity: COMMON
+      description: 00
+      title: "M\u0169i nam"
+      categoryCode: BODY_NOSE
+      rootPath: /Nose/00
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+    - externalId: male_mouth_00
+      rarity: COMMON
+      description: 00
+      title: "Mi\u1EC7ng nam"
+      categoryCode: BODY_LIP
+      rootPath: /Mouth/00
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+    - externalId: male_hat_m10001a_00
+      rarity: COMMON
+      description: hat_m10001
+      title: "N\xF3n nam"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_m10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_m10001a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_m10001a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_m10001a_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10002a_00
+      rarity: COMMON
+      description: hat_m10002
+      title: "N\xF3n l\u01B0\u1EE1i trai t\xEDm"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_m10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10002b_01
+      rarity: COMMON
+      description: Variant 01 of hat_m10002
+      title: "N\xF3n l\u01B0\u1EE1i trai xanh"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_m10002b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10002c_02
+      rarity: COMMON
+      description: Variant 02 of hat_m10002
+      title: "N\xF3n l\u01B0\u1EE1i trai cam"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_m10002c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_m10002_RME.png
+        clientGroups: []
+    - externalId: male_hat_m10002d_03
+      rarity: COMMON
+      description: Variant 03 of hat_m10002
+      title: "N\xF3n l\u01B0\u1EE1i trai mint"
+      categoryCode: FASHION_HAT
+      rootPath: /Hat/hat_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/hat_m10002d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /hat_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/hat_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/hat_m10002_RME.png
+        clientGroups: []
+    - externalId: male_shirt_10002a_m_00
+      rarity: COMMON
+      description: "\xC1o hoodie cam"
+      title: "\xC1o thun v\xE0ng"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_10002a_m_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_10002a_m_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_10002a_m_RME.png
+        clientGroups: []
+    - externalId: male_shirt_m10003a_00
+      rarity: COMMON
+      description: shirt_m10003
+      title: "\xC1o hoodie t\xEDm xanh"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_m10003a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_m10003a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_m10003a_RME.png
+        clientGroups: []
+    - externalId: male_shirt_m10004a_00
+      rarity: COMMON
+      description: shirt_m10004
+      title: "\xC1o thun \u0111\u1ECF"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_m10004a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_m10004_RME.png
+        clientGroups: []
+    - externalId: male_shirt_m10004b_01
+      rarity: COMMON
+      description: Variant 01 of shirt_m10004
+      title: "\xC1o thun l\u01A1"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_m10004b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_m10004_RME.png
+        clientGroups: []
+    - externalId: male_shirt_m10004c_02
+      rarity: COMMON
+      description: Variant 02 of shirt_m10004
+      title: "\xC1o thun xanh"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_m10004c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_m10004_RME.png
+        clientGroups: []
+    - externalId: male_shirt_m10004d_03
+      rarity: COMMON
+      description: Variant 03 of shirt_m10004
+      title: "\xC1o thun v\xE0ng"
+      categoryCode: FASHION_SHIRT
+      rootPath: /Shirt/shirt_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shirt_m10004d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shirt_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shirt_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shirt_m10004_RME.png
+        clientGroups: []
+    - externalId: male_pant_m10002a_00
+      rarity: COMMON
+      description: pants_m10002
+      title: "Qu\u1EA7n short xanh"
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pants_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_m10002a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_m10002a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_m10002a_RME.png
+        clientGroups: []
+    - externalId: male_pant_m10003a_00
+      rarity: COMMON
+      description: pants_m10003
+      title: "Qu\u1EA9n th\u1EC3 thao"
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pants_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_m10003a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_m10003a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_m10003a_RME.png
+        clientGroups: []
+    - externalId: male_pant_m10004a_00
+      rarity: COMMON
+      description: pants_m10004
+      title: "Qu\u1EA7n short "
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pants_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_m10004a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_m10004_RME.png
+        clientGroups: []
+    - externalId: male_pant_m10004b_01
+      rarity: COMMON
+      description: Variant 01 of pants_m10004
+      title: "Qu\u1EA7n short"
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pants_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_m10004b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_m10004_RME.png
+        clientGroups: []
+    - externalId: male_pant_m10004c_02
+      rarity: COMMON
+      description: Variant 02 of pants_m10004
+      title: "Qu\u1EA7n short"
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pants_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_m10004c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_m10004_RME.png
+        clientGroups: []
+    - externalId: male_pant_m10004d_03
+      rarity: COMMON
+      description: Variant 03 of pants_m10004
+      title: "Qu\u1EA7n short"
+      categoryCode: FASHION_PANTS
+      rootPath: /Pants/pants_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/pant_m10004d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /pant_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/pant_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/pant_m10004_RME.png
+        clientGroups: []
+    - externalId: male_shoes_m10002a_00
+      rarity: COMMON
+      description: shoes_m10002
+      title: "Gi\xE0y Nike nam"
+      categoryCode: FASHION_SHOE
+      rootPath: /Shoes/shoes_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shoes_m10002a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shoes_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shoes_m10002a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shoes_m10002a_RME.png
+        clientGroups: []
+    - externalId: male_shoes_m10003a_00
+      rarity: COMMON
+      description: shoes_m10003
+      title: "Gi\xE0y Addidas nam"
+      categoryCode: FASHION_SHOE
+      rootPath: /Shoes/shoes_m10003
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/shoes_m10003a_Basecolor.png
+        clientGroups: []
+      - type: RESOURCE_UNSPECIFIED
+        paths:
+        - 
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shoes_m10003.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/shoes_m10003a_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/shoes_m10003a_RME.png
+        clientGroups: []
+    - externalId: male_shose_m10004_00
+      rarity: COMMON
+      description: shoes_m10004
+      title: "Gi\xE0y Newbalance"
+      categoryCode: FASHION_SHOE
+      rootPath: /Shoes/shoes_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex04/shose_m10004_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /shoes_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex04/shose_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex04/shose_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10001a_00
+      rarity: COMMON
+      description: accessories_m10001
+      title: "K\xEDnh Muzi xanh d\u01B0\u01A1ng"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10001_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10001b_m_01
+      rarity: COMMON
+      description: Variant 01 of accessories_m10001
+      title: "K\xEDnh Muzi xanh l\xE1"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10001b_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10001_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10001c_m_02
+      rarity: COMMON
+      description: Variant 02 of accessories_m10001
+      title: "K\xEDnh Muzi v\xE0ng"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10001c_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10001_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10001d_m_03
+      rarity: COMMON
+      description: Variant 03 of accessories_m10001
+      title: "K\xEDnh Muzi h\u01B0\u1EDDng"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10001d_m_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10001_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10002a_00
+      rarity: COMMON
+      description: accessories_m10002
+      title: "Kh\u1EA9u trang \u0111en"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10002a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10002_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10002b_01
+      rarity: COMMON
+      description: Variant 01 of accessories_m10002
+      title: "Kh\u1EA9u trang \u0111\u1ECF"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10002b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10002_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10002c_02
+      rarity: COMMON
+      description: Variant 02 of accessories_m10002
+      title: "Kh\u1EA9u trang xanh"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10002
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10002c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10002.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10002_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10002_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10004a_00
+      rarity: COMMON
+      description: accessories_m10004
+      title: "V\xF2ng h\u1ED3ng"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10004a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10004b_01
+      rarity: COMMON
+      description: Variant 01 of accessories_m10004
+      title: "V\xF2ng xanh"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10004b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10004c_02
+      rarity: COMMON
+      description: Variant 02 of accessories_m10004
+      title: "V\xF2ng mint"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10004c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10004d_03
+      rarity: COMMON
+      description: Variant 03 of accessories_m10004
+      title: "V\xF2ng v\xE0ng"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10004
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10004d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10004.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10004_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10004_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10005a_00
+      rarity: COMMON
+      description: accessories_m10005
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10005a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10005b_01
+      rarity: COMMON
+      description: Variant 01 of accessories_m10005
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10005b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10005c_02
+      rarity: COMMON
+      description: Variant 02 of accessories_m10005
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10005c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10005d_03
+      rarity: COMMON
+      description: Variant 03 of accessories_m10005
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10005d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10005e_04
+      rarity: COMMON
+      description: Variant 04 of accessories_m10005
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10005e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10005f_05
+      rarity: COMMON
+      description: Variant 05 of accessories_m10005
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10005f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10005g_06
+      rarity: COMMON
+      description: Variant 06 of accessories_m10005
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10005g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10005h_07
+      rarity: COMMON
+      description: Variant 07 of accessories_m10005
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10005
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10005h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10005.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10005_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10005_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10006a_00
+      rarity: COMMON
+      description: accessories_m10006
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10006a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10006b_01
+      rarity: COMMON
+      description: Variant 01 of accessories_m10006
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10006b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10006c_02
+      rarity: COMMON
+      description: Variant 02 of accessories_m10006
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10006c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10006d_03
+      rarity: COMMON
+      description: Variant 03 of accessories_m10006
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10006d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10006e_04
+      rarity: COMMON
+      description: Variant 04 of accessories_m10006
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10006e_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10006f_05
+      rarity: COMMON
+      description: Variant 05 of accessories_m10006
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10006f_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10006g_06
+      rarity: COMMON
+      description: Variant 06 of accessories_m10006
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10006g_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m10006h_07
+      rarity: COMMON
+      description: Variant 07 of accessories_m10006
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m10006
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m10006h_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m10006.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m10006_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m10006_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m20001a_00
+      rarity: COMMON
+      description: accessories_m20001
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m20001a_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m20001_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m20001b_01
+      rarity: COMMON
+      description: Variant 01 of accessories_m20001
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m20001b_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m20001_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m20001c_02
+      rarity: COMMON
+      description: Variant 02 of accessories_m20001
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m20001c_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m20001_RME.png
+        clientGroups: []
+    - externalId: male_accessory_m20001d_03
+      rarity: COMMON
+      description: Variant 03 of accessories_m20001
+      title: "\u0110eo tay"
+      categoryCode: FASHION_ACCESSORIES
+      rootPath: /Accessories/accessories_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/accessory_m20001d_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /accessory_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/accessory_m20001_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/accessory_m20001_RME.png
+        clientGroups: []
+    - externalId: male_set_m20001_01_00
+      rarity: COMMON
+      description: set_m20001
+      title: "Set \u0111\u1ED3 \u0111\u1ECF Muzifest"
+      categoryCode: FASHION_FULLSET
+      rootPath: /Set/set_m20001
+      options: []
+      properties:
+      - propertyPath: validation.avatar.gender
+        propertyValue: MALE
+      resources:
+      - type: BASE_IMG
+        paths:
+        - /Tex00/set_m20001_01_Basecolor.png
+        clientGroups: []
+      - type: FBX
+        paths:
+        - /set_m20001.fbx
+        clientGroups: []
+      - type: NORMAL_IMG
+        paths:
+        - /Tex00/set_m20001_01_Normal.png
+        clientGroups: []
+      - type: RME_IMG
+        paths:
+        - /Tex00/set_m20001_01_RME.png
+        clientGroups: []
+  localResourcesInfo: {fileID: 11400000, guid: dfe4d7542215c4ed4969878f6a1d83f9, type: 2}

@@ -1,0 +1,15 @@
+{
+  "name": "io.muziverse.muzisdk",
+  "displayName": "MuziSDK",
+  "version": "0.0.2",
+  "unity": "2020.3",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Muziverse unity team",
+    "url": "muziverse.io"
+  },
+  "type": "tool",
+  "description": "https://gitlab.com/"
+}
