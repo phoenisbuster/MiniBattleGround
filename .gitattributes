@@ -2,3 +2,4 @@
 * text=auto
 Assets/Characters/Player/Ch15_nonPBR@Jump.fbx filter=lfs diff=lfs merge=lfs -text
 Assets/Characters/Player/Ch15_nonPBR@Standard[[:space:]]Run.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Vivox/Plugins/iOS/libvivoxsdk.a filter=lfs diff=lfs merge=lfs -text
