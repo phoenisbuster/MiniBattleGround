@@ -1,0 +1,15 @@
+{
+  "name": "io.muziverse.protocsharp",
+  "displayName": "MuziverseProtoCSharpPackage",
+  "version": "0.0.371",
+  "unity": "2020.3",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "author": {
+    "name": "bgp-devops",
+    "url": "https://gitlab.com/bgp-devops"
+  },
+  "type": "tool",
+  "description": "https://gitlab.com/muziverse/common/ProtoFilesCSharp.git"
+}
