@@ -1,0 +1,157 @@
+syntax = "proto3";
+option go_package = "gitlab.com/ilt-game-studio/ilt-fresher/mini-battle/backend/pb/mini-battle";
+
+service MiniBattleService {
+    rpc UpdateProfile(UpdateProfileRequest) returns (UpdateProfileReply); // 
+    rpc GetProfile(GetProfileRequest) returns (GetProfileReply);
+    rpc GetLeaderBoard(GetLeaderBoardRequest) returns (GetLeaderBoardReply);
+}
+
+// Only for testing //
+message Test{
+    int32 test1 = 1;
+    string test2 = 2;
+    bool test3 = 3;
+}
+
+// GRPC Service
+message UpdateProfileRequest {
+    string username = 1;
+}
+
+message UpdateProfileReply {}
+
+message GetProfileRequest {}
+
+message GetProfileReply {
+    int64 balance = 1;
+    string username = 2; // in game
+}
+
+message GetLeaderBoardRequest {}
+
+message GetLeaderBoardReply {
+    repeated Rank ranks = 1;
+    message Rank {
+        string playername = 1;
+        int64 balance = 2;
+    }
+}
+
+
+
+// WEBSOCKET MESSAGE
+// SERVER
+message ServerMessage {
+    oneof payload {
+        // Reply when client want to join a game, include game map information and position
+        PlayerJoined player_joined = 1;
+
+        // Game state update for all client
+        GameState game_state = 2;
+        
+        // Send when a player left the game
+        PlayerLeft player_left = 3;
+        
+        // Reply when client want to join a game, include game map information and initial position
+        GameStarted game_started = 4;
+        
+        // Send when game send
+        GameEnded game_ended = 5;
+
+        // Send when room is enough members
+        CountDown count_down = 6;
+
+        // Send before game start
+        GameMap game_map = 7;
+
+        // Send when client connect to a room successfully
+        JoinSuccess join_success = 8;
+    }
+
+}
+
+message PlayerJoined {
+    int32 userID = 1;
+    string username = 2;
+}
+
+message JoinSuccess {
+    int32 userID = 1;
+    repeated ClientInfo client = 2;
+}
+
+message GameState {
+    repeated Player players = 1;
+}
+
+message GameMap {
+    repeated Grid map = 2;
+    message Grid {
+        enum GridComponent {
+            HOLE = 0;
+            GROUND = 1;
+            WALL = 2;
+            MUD = 3;
+            BOOST = 4;
+            //FLOW = 5;
+            START = 5;
+            DES = 6;
+        }
+        repeated GridComponent object = 1;
+    }
+}
+
+message GameStarted {
+    bool status = 1;
+}
+
+message GameEnded {
+    Leaderboard leaderboard = 1;
+}
+
+message PlayerLeft {
+    int32 playerID = 1;
+}
+
+message CountDown {
+    int32 startInSeconds = 1;
+}
+
+
+message Leaderboard{
+    repeated Rank ranks = 1;
+}
+
+message Rank{
+    int32 clientID = 1;
+    uint32 position = 2;
+}
+message ClientInfo{
+    int32 clientID = 1;
+}
+// CLIENT
+message UserMessage {
+    oneof payload {
+        // Client control 
+        UserInput user_input = 1;
+    }
+}
+
+message Position {
+    float x = 1;
+    float y = 2;
+}
+
+message Player {
+    int32 playerID = 1;
+    float facing = 2;
+    float velocity = 3;
+    Position pos = 4;
+}
+
+message UserInput {
+    // Direction and angle to 2d-map
+    bool move = 1;
+    float facing = 2;
+}

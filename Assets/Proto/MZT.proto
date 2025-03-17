@@ -1,0 +1,149 @@
+syntax = "proto3";
+package MZTMessage;
+option go_package  = "Message/MZTMessage";
+
+message UserRoomData{
+    string mapId =1;
+    repeated MZTObject objects=2;
+    Point3 Color =3;
+    float Intensity=4;
+    int32 MusicLoopId=5;
+    float Volumm=6;
+    int32 RoomPresetId =7;
+}
+
+message MZTObject{
+    string objectId=1;
+    Point3 position =2;
+    Point3 rotation =3;
+    Point3 scale =4;
+    int32 Type=5;
+    repeated MZTObject childObjects=6;
+    map<string, string> configs = 7;
+}
+message Point3{
+    float x = 1;
+    float y = 2;
+    float z = 3;
+}
+message Point4{
+    float x = 1;
+    float y = 2;
+    float z = 3;
+}
+message Point2{
+    float x = 1;
+    float y = 2;
+}
+message Point2Int{
+    int32 x = 1;
+    int32 y = 2;
+}
+
+message LocalUserState // for storing the user custom data
+{
+    int32 val = 1;
+}
+
+
+
+// personal room 
+
+message MZTAssetInfo
+{
+    string AssetId = 1;
+    string RootFolderName=2;
+    MZTAssetCustomization customization =3;
+    MZTGameObject GameObjectInfo = 4;     
+}
+message MZTGameObject
+{
+    int32 Layer =1;
+    string Tag = 2;
+    string Name =3;
+    repeated MZTComponent Components = 4;
+    repeated MZTGameObject Children = 5;     
+}
+
+message MZTComponent
+{
+    oneof Component { 
+        MZTComponentInteractable Interactable =1;
+        MZTComponentAnimatedInteractable AnimatedIinteractable =2;
+        MZTComponentInstrumentChair InstrumentChair = 3;
+        MZTComponentMoveTowardsLocation MoveTowardsLocation=4;
+        MZTComponentAnimator Animator =5;
+        MZTComponentBoxCollider BoxCollider=6;
+        MZTComponentMeshCollider MeshCollider=7;
+        MZTComponentMeshFilter MeshFilter=8;
+        MZTComponentMeshRenderer MeshRenderer=9; 
+    }
+}
+message MZTComponentMeshFilter
+{
+    string MeshName = 1;
+    repeated Point3 Vertices =2;
+    repeated Point2 UV =3;
+    repeated int32 Triangles=4;
+}
+message MZTComponentMeshRenderer
+{
+    string MaterialName = 1;
+    MZTMaterial Material =2;
+}
+message MZTMaterial
+{
+    string ShaderName = 1;
+    Point4 Color = 2;
+    string RMEMap =3;
+    string NormalMap = 4;
+    string BaseMap = 5;
+    string MaskMap = 6;
+}
+
+message MZTComponentInteractable
+{
+    int32 ID = 1;
+}
+message MZTComponentAnimatedInteractable
+{
+
+}
+message MZTComponentMoveTowardsLocation
+{
+    Point3 Offset = 1;
+    float YawOffet = 2;
+    Point3 Size = 3;
+    float MovementMultiplier = 4;
+}
+message MZTComponentAnimator
+{
+    string runtimeAnimatorName = 1;
+}
+message MZTComponentBoxCollider
+{
+    bool IsTrigger = 1;
+    Point3 Center =2;
+    Point3 Size = 3;
+}
+
+message MZTAssetCustomization
+{
+    repeated MZTAssetCustomizationItem CustomizationItems=1;
+}
+message MZTAssetCustomizationItem
+{
+    int32 MaterialIndex =1;   
+    repeated string TextureNames =2;
+}
+
+message MZTComponentInstrumentChair
+{
+
+}
+message MZTComponentMeshCollider
+{
+    bool Convex =1;
+    bool IsTrigger = 2;
+}
+
